@@ -1,1 +1,1 @@
-# Solutions to leet code style problems
+# Solutions to Leetcode style problems
