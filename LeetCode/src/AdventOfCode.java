@@ -1,4 +1,4 @@
-public class AdventOfCodeTimeMachine {
+public class AdventOfCode {
 
     public int solve(int[][] grid, int i, int j, char direction, int pathSum) {
 
