@@ -2,50 +2,55 @@ package fibonaccistyle;
 
 public class FibonacciNumbers {
 
-    public int  fib(int n){
-        int[] lookup = new int[n+1];
+        public int  fib(int n){
 
-        for(int i=0;i<=n;i++){
-            lookup[i] = Integer.MIN_VALUE;
+            int[] memo = new int[n+1];
+            return bottomup(n);
         }
 
-        return topDown(n);
-    }
+        public int fibWithoutMemo(int n){
 
+            if(n==0) return 0;
 
-    public int bottomUp(int n){
-        if(n==0  ) return 0;
-        if(n==1 ) return 1;
-        int[] fib = new int[n+1];
+            if(n==1) return 1;
 
-        fib[0] = 0;
-        fib[1] = 1;
+            if(n==2) return 1;
 
-        for(int i =2; i <= n; i++){
-            fib[i] = fib[i-2] + fib[i-1];
+            return fib(n-1) + fib(n-2);
         }
 
-        return fib[n];
-    }
+        public int fibWithMemo(int n, int[] memo){
 
-    public int topDown(int n){
+            if(n==0) return 0;
 
-        int[] fib = new int[n+1];
+            if(n == 1) return 1;
 
-        return solveTopDown(n,fib);
+            if(n==2) return 1;
 
-    }
+            if(memo[n]!=0) return memo[n];
 
-    public  int solveTopDown(int n, int[] memo){
+            memo[n] = fibWithMemo(n-1, memo) + fibWithMemo(n-2, memo);
 
-        if(n==0) return 0;
-        if(n==1) return 1;
+            return memo[n];
+        }
 
-        if(memo[n]!=0) return memo[n];
+        public int bottomup(int n){
 
-        memo[n] = solveTopDown(n-1,memo) + solveTopDown(n-2,memo);
+            if(n==0) return 0;
 
-        return memo[n];
+            if(n==1) return 1;
 
-    }
+            int[] dp = new int[n];
+
+            dp[0] = 1;
+
+            dp[1] = 1;
+
+            for(int i =2; i<n; i++){
+
+                dp[i] = dp[i-1] + dp[i-2];
+            }
+
+            return dp[n-1];
+        }
 }

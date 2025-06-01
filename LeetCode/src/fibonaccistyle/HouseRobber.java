@@ -2,24 +2,52 @@ package fibonaccistyle;
 
 public class HouseRobber {
 
-    private int[] memo;
-
     public int rob(int[] nums) {
 
-        int N = nums.length;
+        int[] memo = new int[nums.length];
 
-        if(N == 0) return 0;
+        return robBottomUp(nums);
+    }
 
-        int[] maxRobbed = new int[nums.length +1];
+    public int robWithoutMemo(int[] nums, int index){
 
-        maxRobbed[N] = 0;
-        maxRobbed[N-1] = nums[N-1];
+        if(index >= nums.length ) return 0;
 
-        for(int i = N-2; i>=0; --i){
+        int take = nums[index] + robWithoutMemo(nums, index +2);
 
-            maxRobbed[i] = Math.max(maxRobbed[i+1], maxRobbed[i+2] + nums[i]);
+        int skip = robWithoutMemo(nums, index+1);
+
+        return Math.max(take, skip);
+    }
+
+    public int robWithMemo(int[] nums, int index, int[] memo){
+
+        if(index >= nums.length ) return 0;
+
+        if(memo[index] != 0) return memo[index];
+
+        int take = nums[index] + robWithMemo(nums, index +2, memo);
+
+        int skip = robWithMemo(nums, index+1, memo);
+
+        memo[index] = Math.max(take, skip);
+
+        return memo[index];
+    }
+
+    public int robBottomUp(int[] nums){
+
+        if(nums.length ==0) return 0;
+
+        if(nums.length == 1) return nums[0];
+
+        int[] dp = new int[nums.length+2];
+
+        for(int i = nums.length -1; i>=0; i--){
+
+            dp[i] = Math.max(dp[i+2]+ nums[i], dp[i+1]);
         }
 
-        return maxRobbed[0];
+        return dp[0];
     }
 }
