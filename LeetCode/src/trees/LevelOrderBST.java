@@ -12,30 +12,31 @@ public class LevelOrderBST {
 
         List<List<Integer>> result = new ArrayList();
 
-        if(root == null) return result;
+        if(root==null) return result;
 
-        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        Queue<TreeNode> queue = new LinkedList();
 
-        q.add(root);
+        queue.add(root);
 
-        while(!q.isEmpty()){
+        while(!queue.isEmpty()){
 
-            int size = q.size();
+            int size = queue.size();
 
             List<Integer> temp = new ArrayList();
 
-            while(size>0){
-                TreeNode t = q.remove();
+            while( size > 0 ){
 
-                if(t!=null && t.left!=null)q.add(t.left);
-                if(t!=null && t.right!=null)q.add(t.right);
+                TreeNode node = queue.remove();
 
-                temp.add(t.val);
+                temp.add(node.val);
+
+                if(node.left !=null) queue.add(node.left);
+                if(node.right!=null) queue.add(node.right);
+
                 size --;
             }
 
             result.add(temp);
-
         }
 
         return result;
