@@ -16,17 +16,17 @@ public class MergeSort {
 
         int right = nums.length - 1;
 
-        divideAndConquere(nums, left, right);
+        divideAndConquer(nums, left, right);
     }
 
-    public void divideAndConquere(int[] nums, int left, int right){
+    public void divideAndConquer(int[] nums, int left, int right){
 
         if(left >= right) return ;
 
         int mid = left + (right - left)/2;
 
-        divideAndConquere(nums,left, mid);
-        divideAndConquere(nums, mid+1, right);
+        divideAndConquer(nums,left, mid);
+        divideAndConquer(nums, mid+1, right);
 
         merge(nums, left, mid, right);
     }
