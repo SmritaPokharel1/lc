@@ -2,7 +2,7 @@ package string;
 
 public class Palindrome {
 
-    public Boolean isPalindrome(String s){
+    public static Boolean isPalindrome(String s){
 
         int left = 0;
 
@@ -18,5 +18,4 @@ public class Palindrome {
 
         return true;
     }
-
 }

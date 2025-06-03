@@ -1,4 +1,4 @@
-package arraysandstrings;
+package arrays;
 
 public class MaxArea {
 
