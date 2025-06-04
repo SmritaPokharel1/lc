@@ -29,7 +29,7 @@ public class UniqueBST {
 
         for(int i =0; i < n; i++){
 
-            result += catalan(i) * catalan(n - i - 1);
+            result += catalanRecursive(i) * catalanRecursive(n - i - 1);
         }
 
         return result;
