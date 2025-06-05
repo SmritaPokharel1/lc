@@ -1,6 +1,7 @@
 package trees;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 
@@ -35,5 +36,16 @@ public class AbsoluteDiff {
 
             inOrderTraversal(root.right);
         }
+    }
+
+    public static void main(String[] args){
+
+        String test = "1,2,3,";
+
+        String[] res = test.split(",");
+
+        System.out.println(res.length);
+
+        Arrays.stream(res).forEach(a ->System.out.println(a));
     }
 }
