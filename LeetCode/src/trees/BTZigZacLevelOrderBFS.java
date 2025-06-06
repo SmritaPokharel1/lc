@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class BTLevelOrderBFS {
+public class BTZigZacLevelOrderBFS {
 
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
 
