@@ -20,25 +20,20 @@ public class QueueUsingStack {
 
     public int pop() {
 
-        if(stack.isEmpty()) return 0;
-
         transfer(stack,buffer);
 
-        int result = buffer.pop();
+        return buffer.empty()? 0 : buffer.pop();
 
-        transfer(buffer, stack);
-
-        return result;
     }
 
     public void transfer(Stack<Integer> s1, Stack<Integer> s2){
 
-        if(s2.isEmpty()) {
+        if(s2.isEmpty()){
 
-                while (!s1.isEmpty()) {
+            while(!s1.isEmpty()){
 
-                    s2.push(s1.pop());
-                }
+                s2.push(s1.pop());
+            }
         }
     }
 
@@ -46,15 +41,11 @@ public class QueueUsingStack {
 
         transfer(stack,buffer);
 
-        int result = buffer.peek();
-
-        transfer(buffer,stack);
-
-        return result;
+        return buffer.isEmpty() ? 0 : buffer.peek();
     }
 
     public boolean empty() {
 
-        return stack.isEmpty();
+        return stack.isEmpty() && buffer.isEmpty();
     }
 }
