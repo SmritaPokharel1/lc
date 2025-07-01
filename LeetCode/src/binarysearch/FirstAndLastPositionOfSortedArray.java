@@ -1,4 +1,4 @@
-package arrays;
+package binarysearch;
 
 public class FirstAndLastPositionOfSortedArray {
 
