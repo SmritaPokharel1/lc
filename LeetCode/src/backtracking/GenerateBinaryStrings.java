@@ -27,4 +27,14 @@ public class GenerateBinaryStrings {
 
         backtrack(curr+"1", result, n);
     }
+
+    public static void main(String[] args){
+
+        List<Integer> list = new ArrayList<>();
+
+        list.add(1);
+        list.add(2);
+
+        System.out.println(list.contains(1));
+    }
 }
