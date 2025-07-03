@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros
-public class GenerateBinaryStrings {
+public class BinaryStrings {
 
     public List<String> validStrings(int n) {
 
