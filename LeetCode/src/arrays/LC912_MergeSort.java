@@ -18,6 +18,7 @@ package arrays;
  * Explanation: Note that the values of nums are not necessarily unique.
  *
  * https://leetcode.com/problems/sort-an-array/?envType=problem-list-v2&envId=merge-sort
+ *
  */
 public class LC912_MergeSort {
 

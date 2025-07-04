@@ -19,6 +19,7 @@ package dynamicprogramming.kadanealgo;
  * Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
  *
  * https://leetcode.com/problems/maximum-product-subarray/description/
+ *
  */
 public class LC152_MaxProductSubArray {
 

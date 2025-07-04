@@ -10,6 +10,7 @@ package binarysearch;
  * You must write a solution in O(log(m * n)) time complexity.
  *
  * https://leetcode.com/problems/search-a-2d-matrix/description/?envType=study-plan-v2&envId=top-interview-150
+ *
  */
 public class LC74_Search2DMatrix {
 

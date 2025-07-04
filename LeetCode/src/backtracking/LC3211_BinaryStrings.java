@@ -35,6 +35,7 @@ import java.util.List;
  * The valid strings of length 1 are: "0" and "1".
  *
  * https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros
+ *
  */
 public class LC3211_BinaryStrings {
 

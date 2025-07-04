@@ -22,6 +22,7 @@ package binarysearch;
  * Explanation: Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.
  *
  * https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150
+ *
  */
 public class LC162_FindPeakElement {
 

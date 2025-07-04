@@ -28,6 +28,7 @@ package binarysearch;
  * Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
  *
  * https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+ *
  */
 public class LC153_FindMinInRotatedArray {
 

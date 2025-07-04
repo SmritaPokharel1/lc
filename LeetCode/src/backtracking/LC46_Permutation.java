@@ -20,6 +20,7 @@ import java.util.List;
  * Output: [[1]]
  *
  * https://leetcode.com/problems/permutations
+ *
  */
 public class LC46_Permutation {
 
