@@ -2,7 +2,8 @@ package backtracking;
 
 import java.util.Arrays;
 
-public class NQueen {
+//https://leetcode.com/problems/n-queens-ii/description/
+public class NQueens {
 
     int total = 0;
 
