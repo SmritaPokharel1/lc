@@ -13,23 +13,23 @@ public class LCXX_MinHeap {
 
     public void insert(int val){
 
-        heap[size] = val;
         int current = size;
 
-        size ++;
+        heap[current] = val;
+        size++;
 
         int parent = (current - 1)/2;
 
-        while(current > 0 && heap[current] < heap[parent]){
+        while(current > 0 && heap[parent] > heap[current]){
 
-            swap(parent, current);
+            swap(parent,current);
             current = parent;
         }
     }
 
     public int peek(){
 
-        if(size == 0) throw new RuntimeException("Heap is empty");
+        if(size==0) throw new RuntimeException();
 
         return heap[0];
     }
@@ -53,11 +53,16 @@ public class LCXX_MinHeap {
         int right = 2 * index + 2;
         int smallest = index;
 
-        if(left < size && heap[smallest] > heap[left]) smallest = left;
+        if(left < size && heap[smallest] > heap[left]){
+            smallest = left;
+        }
 
-        if( right < size && heap[right] < heap[smallest]) smallest = right;
+        if(right < size && heap[smallest] > heap[right]){
+            smallest = right;
+        }
 
         if(smallest != index){
+
             swap(smallest, index);
             heapify(smallest);
         }
@@ -65,11 +70,10 @@ public class LCXX_MinHeap {
 
     public void swap(int current, int parent){
 
-        int temp = heap[current];
+        int temp = heap[parent];
 
-        heap[current] = heap[parent];
-
-        heap[parent] = temp;
+        heap[parent] = heap[current];
+        heap[current] = temp;
     }
 
     public void printHeap() {
