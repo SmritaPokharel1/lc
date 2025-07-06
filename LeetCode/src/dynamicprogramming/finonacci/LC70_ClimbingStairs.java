@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package dynamicprogramming.finonacci;
 
 /**
  * You are climbing a staircase. It takes n steps to reach the top.

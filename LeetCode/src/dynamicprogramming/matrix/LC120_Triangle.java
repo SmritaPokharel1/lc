@@ -1,4 +1,4 @@
-package matrix;
+package dynamicprogramming.matrix;
 
 import java.util.List;
 

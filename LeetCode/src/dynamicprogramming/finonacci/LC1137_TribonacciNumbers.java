@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package dynamicprogramming.finonacci;
 
 import java.util.HashMap;
 import java.util.Map;
