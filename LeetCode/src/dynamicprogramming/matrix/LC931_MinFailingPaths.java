@@ -12,7 +12,7 @@ import java.util.Arrays;
  *
  * https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=study-plan-v2&envId=dynamic-programming
  */
-public class LC931_MinFailingPath {
+public class LC931_MinFailingPaths {
 
     public int minFallingPathSum(int[][] matrix) {
 
