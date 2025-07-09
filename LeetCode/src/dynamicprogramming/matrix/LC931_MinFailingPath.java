@@ -57,4 +57,36 @@ public class LC931_MinFailingPath {
 
         return memo[i][j];
     }
+
+    public int bottomup(int[][] matrix){
+
+        int m = matrix.length;
+
+        int[][] dp = new int[m][m];
+
+        for(int i = 0; i < m; i++){
+
+            dp[m-1][i] = matrix[m-1][i];
+        }
+
+        for(int i = m-2; i >= 0; i--){
+
+            for(int j =0; j < m; j++){
+
+                int left = j >0 ? dp[i+1][j-1]: Integer.MAX_VALUE;
+                int down = dp[i+1][j];
+                int right = (j < m-1) ? dp[i+1][j+1] : Integer.MAX_VALUE;
+                dp[i][j] = matrix[i][j] + Math.min(left, Math.min(right, down));
+            }
+        }
+
+        int min = Integer.MAX_VALUE;
+
+        for(int j =0; j < m; j++){
+
+            min = Math.min(min, dp[0][j]);
+        }
+
+        return min;
+    }
 }
