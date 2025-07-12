@@ -3,6 +3,7 @@ package arrays;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Stack;
 
 /**
  * The next greater element of some element x in an array is the first greater element that is to the right of x in the same array.
@@ -35,6 +36,44 @@ import java.util.Map;
 public class LC496_NextGreaterElementI {
 
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+
+        return nextGreaterElementWithStack(nums1,nums2);
+
+    }
+
+    public int[] nextGreaterElementWithStack(int[] nums1, int[] nums2) {
+
+        int n = nums2.length;
+
+        int[] ans = new int[nums1.length];
+
+        Map<Integer,Integer> nextGreaterElement = new HashMap<>();
+
+        Stack<Integer> stack = new Stack<>();
+
+        stack.push(nums2[ n -1]);
+        nextGreaterElement.put(nums2[n -1],-1);
+
+        for(int i = n - 2; i >= 0; i--){
+
+            while(!stack.isEmpty() && stack.peek() < nums2[i]) stack.pop();
+
+            nextGreaterElement.put(nums2[i], stack.isEmpty()?-1:stack.peek());
+
+            stack.push(nums2[i]);
+        }
+
+        for(int i = 0 ; i < nums1.length; i ++){
+
+            ans[i] = nextGreaterElement.get(nums1[i]);
+        }
+
+
+        return ans;
+    }
+
+
+    public int[] nextGreaterElementWithMap(int[] nums1, int[] nums2) {
 
         int[] ans = new int[nums1.length];
 
