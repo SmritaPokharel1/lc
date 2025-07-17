@@ -1,5 +1,19 @@
 package matrix;
 
+/**
+ * Given an m x n binary matrix mat, return the length of the longest line of consecutive one in the matrix.
+ *
+ * The line could be horizontal, vertical, diagonal, or anti-diagonal.
+ *
+ * Input: mat = [[0,1,1,0],[0,1,1,0],[0,0,0,1]]
+ * Output: 3
+ *
+ * Input: mat = [[1,1,1,1],[0,1,1,0],[0,0,0,1]]
+ * Output: 4
+ *
+ * https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/
+ *
+ */
 public class LC562_LongestLineOfConsecutiveOne {
 
     public int longestLine(int[][] mat) {
