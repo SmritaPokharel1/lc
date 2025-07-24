@@ -127,6 +127,4 @@ public class LC56_MergeIntervals {
 
         return result.toArray(new int[result.size()][]);
     }
-
-
 }
