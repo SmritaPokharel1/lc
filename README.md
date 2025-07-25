@@ -39,7 +39,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Valid Palindrome (#125)✅
 🔗 leetcode.com/problems/valid-palindrome
 
-🔹 Two Sum II - Input Array Is Sorted (#167)
+🔹 Two Sum II - Input Array Is Sorted (#167)✅
 🔗 leetcode.com/problems/two-sum-ii-input-array-is-sorted
 
 🔹 3Sum (#15)
