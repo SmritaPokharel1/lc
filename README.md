@@ -54,7 +54,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Stack
 
-🔹 Valid Parentheses (#20)
+🔹 Valid Parentheses (#20) ✅
 🔗 leetcode.com/problems/valid-parentheses
 
 🔹 Min Stack (#155)
