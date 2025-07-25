@@ -36,7 +36,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Two pointer
 
-🔹 Valid Palindrome (#125)
+🔹 Valid Palindrome (#125)✅
 🔗 leetcode.com/problems/valid-palindrome
 
 🔹 Two Sum II - Input Array Is Sorted (#167)
