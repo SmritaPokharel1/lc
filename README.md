@@ -84,7 +84,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Koko Eating Bananas (#875)
 🔗 leetcode.com/problems/koko-eating-bananas
 
-🔹 Find Minimum in Rotated Sorted Array (#153)
+🔹 Find Minimum in Rotated Sorted Array (#153)✅
 🔗 leetcode.com/problems/find-minimum-in-rotated-sorted-array
 
 🔹 Search in Rotated Sorted Array (#33)
@@ -100,7 +100,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Sliding Window
 
-🔹 Best Time to Buy and Sell Stock (#121)
+🔹 Best Time to Buy and Sell Stock (#121)✅
 🔗 leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 🔹 Longest Substring Without Repeating Characters (#3)
