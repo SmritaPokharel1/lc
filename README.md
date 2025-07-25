@@ -60,7 +60,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Min Stack (#155)
 🔗 leetcode.com/problems/min-stack
 
-🔹 Evaluate Reverse Polish Notation (#150)
+🔹 Evaluate Reverse Polish Notation (#150) ✅
 🔗 leetcode.com/problems/evaluate-reverse-polish-notation
 
 🔹 Generate Parentheses (#22)
