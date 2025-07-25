@@ -63,7 +63,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Evaluate Reverse Polish Notation (#150) ✅
 🔗 leetcode.com/problems/evaluate-reverse-polish-notation
 
-🔹 Generate Parentheses (#22)
+🔹 Generate Parentheses (#22) ✅
 🔗 leetcode.com/problems/generate-parentheses
 
 🔹 Daily Temperatures (#739)
@@ -78,7 +78,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Binary Search
 
-🔹 Search a 2D Matrix (#74)
+🔹 Search a 2D Matrix (#74)✅
 🔗 leetcode.com/problems/search-a-2d-matrix
 
 🔹 Koko Eating Bananas (#875)
