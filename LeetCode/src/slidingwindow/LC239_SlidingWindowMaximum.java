@@ -34,35 +34,31 @@ public class LC239_SlidingWindowMaximum {
     //removing elements from heap is a really expensive operation and so need to track the index aswell
     public int[] maxSlidingWindow(int[] nums, int k) {
 
-        if(k ==1) return nums;
+        if(k==1 || nums.length==1) return nums;
 
-        if(nums.length<=1) return nums;
-
-        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a,b)-> b[0] - a[0]);
-
-        int[] result = new int[nums.length - k + 1];
+        PriorityQueue<int[]> queue = new PriorityQueue<int[]>((a,b) -> b[0] - a[0]);
 
         int index = 0;
 
-        while(maxHeap.size() < k){
+        int[] result = new int[nums.length - k +1];
 
-            maxHeap.add(new int[]{nums[index],index});
-            index++;
+        while(queue.size() < k){
+
+            queue.add(new int[]{nums[index],index++});
         }
 
-        result[index-k] = maxHeap.peek()[0];
+        result[index - k] = queue.peek()[0];
 
         while(index < nums.length){
-            maxHeap.add(new int[]{nums[index],index});
 
-            while (maxHeap.peek()[1] <= index - k) {
-                maxHeap.poll();
+            queue.add(new int[]{nums[index],index++});
+
+            while(queue.peek()[1] < index -k){
+
+                queue.poll();
             }
 
-            result[index - k +1] = maxHeap.peek()[0];
-
-            index++;
-
+            result[index-k] = queue.peek()[0];
         }
 
         return result;

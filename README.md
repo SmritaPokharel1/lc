@@ -103,7 +103,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Best Time to Buy and Sell Stock (#121)✅
 🔗 leetcode.com/problems/best-time-to-buy-and-sell-stock
 
-🔹 Longest Substring Without Repeating Characters (#3)
+🔹 Longest Substring Without Repeating Characters (#3)✅
 🔗 leetcode.com/problems/longest-substring-without-repeating-characters
 
 🔹 Longest Repeating Character Replacement (#424)
