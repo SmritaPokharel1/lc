@@ -131,6 +131,9 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Linked List Cycle (#141)✅
 🔗 leetcode.com/problems/linked-list-cycle
 
+🔹 Linked List Cycle (#142)✅
+🔗 leetcode.com/problems/linked-list-cycle-ii/description/
+
 🔹 Reorder List (#143)
 🔗 leetcode.com/problems/reorder-list
 
