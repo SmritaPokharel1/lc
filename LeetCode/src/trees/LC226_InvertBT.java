@@ -1,8 +1,12 @@
 package trees;
 
 
-//https://leetcode.com/problems/invert-binary-tree/
-public class InvertBT {
+/**
+ * Given the root of a binary tree, invert the tree, and return its root.
+ *
+ * https://leetcode.com/problems/invert-binary-tree/description/
+ */
+public class LC226_InvertBT {
 
     public TreeNode invertTree(TreeNode root){
 

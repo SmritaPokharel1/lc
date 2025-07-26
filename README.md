@@ -146,7 +146,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Add Two Numbers (#2)✅
 🔗 leetcode.com/problems/add-two-numbers
 
-🔹 Find the Duplicate Number (#287)
+🔹 Find the Duplicate Number (#287)✅
 🔗 leetcode.com/problems/find-the-duplicate-number
 
 🔹 LRU Cache (#146)
@@ -162,7 +162,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Trees
 
-🔹 Invert Binary Tree (#226)
+🔹 Invert Binary Tree (#226)✅
 🔗 leetcode.com/problems/invert-binary-tree
 
 🔹 Maximum Depth of Binary Tree (#104)
