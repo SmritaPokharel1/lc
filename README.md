@@ -168,10 +168,10 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Maximum Depth of Binary Tree (#104)✅
 🔗 leetcode.com/problems/maximum-depth-of-binary-tree
 
-🔹 Diameter of Binary Tree (#543)
+🔹 Diameter of Binary Tree (#543) ?
 🔗 leetcode.com/problems/diameter-of-binary-tree
 
-🔹 Balanced Binary Tree (#110)
+🔹 Balanced Binary Tree (#110)✅
 🔗 leetcode.com/problems/balanced-binary-tree
 
 🔹 Same Tree (#100)

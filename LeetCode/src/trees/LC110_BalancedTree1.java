@@ -1,6 +1,12 @@
 package trees;
 
-public class BalancedTree1 {
+
+/**
+ * Given a binary tree, determine if it is height-balanced.
+ *
+ * https://leetcode.com/problems/balanced-binary-tree/description/
+ */
+public class LC110_BalancedTree1 {
 
     public boolean isBalanced(TreeNode root) {
 
