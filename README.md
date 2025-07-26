@@ -115,14 +115,14 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Minimum Window Substring (#76)
 🔗 leetcode.com/problems/minimum-window-substring
 
-🔹 Sliding Window Maximum (#239)
+🔹 Sliding Window Maximum (#239)✅
 🔗 leetcode.com/problems/sliding-window-maximum
 
 
 
 ## Linked List
 
-🔹 Reverse Linked List (#206)
+🔹 Reverse Linked List (#206)✅
 🔗 leetcode.com/problems/reverse-linked-list
 
 🔹 Merge Two Sorted Lists (#21)
