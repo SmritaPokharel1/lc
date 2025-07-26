@@ -195,7 +195,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Validate Binary Search Tree (#98)
 🔗 leetcode.com/problems/validate-binary-search-tree
 
-🔹 Kth Smallest Element in a BST (#230)
+🔹 Kth Smallest Element in a BST (#230)✅
 🔗 leetcode.com/problems/kth-smallest-element-in-a-bst
 
 🔹 Construct Binary Tree from Preorder and Inorder Traversal (#105)
