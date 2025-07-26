@@ -174,7 +174,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Balanced Binary Tree (#110)✅
 🔗 leetcode.com/problems/balanced-binary-tree
 
-🔹 Same Tree (#100)
+🔹 Same Tree (#100)✅
 🔗 leetcode.com/problems/same-tree
 
 🔹 Subtree of Another Tree (#572)
