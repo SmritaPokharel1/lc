@@ -177,7 +177,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Same Tree (#100)✅
 🔗 leetcode.com/problems/same-tree
 
-🔹 Subtree of Another Tree (#572)
+🔹 Subtree of Another Tree (#572)✅
 🔗 leetcode.com/problems/subtree-of-another-tree
 
 🔹 Lowest Common Ancestor of a Binary Search Tree (#235)
