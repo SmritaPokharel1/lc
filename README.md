@@ -183,10 +183,10 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Lowest Common Ancestor of a Binary Search Tree (#235)
 🔗 leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 
-🔹 Binary Tree Level Order Traversal (#102)
+🔹 Binary Tree Level Order Traversal (#102)✅
 🔗 leetcode.com/problems/binary-tree-level-order-traversal
 
-🔹 Binary Tree Right Side View (#199)
+🔹 Binary Tree Right Side View (#199)✅
 🔗 leetcode.com/problems/binary-tree-right-side-view
 
 🔹 Count Good Nodes In Binary Tree (#1448)
