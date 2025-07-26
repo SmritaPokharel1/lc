@@ -134,7 +134,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Linked List Cycle (#142)✅
 🔗 leetcode.com/problems/linked-list-cycle-ii/description/
 
-🔹 Reorder List (#143)
+🔹 Reorder List (#143)✅
 🔗 leetcode.com/problems/reorder-list
 
 🔹 Remove Nth Node From End of List (#19)
