@@ -1,5 +1,5 @@
 
-A curated list of LeetCode problems organized by topic based on https://neetcode.io/
+A curated list of LeetCode problems organized by topic based on https://neetcode.io/ and others that I have solved
 
 https://leetcode.com/u/smrita_pokharel/
 
@@ -198,8 +198,11 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Kth Smallest Element in a BST (#230)✅
 🔗 leetcode.com/problems/kth-smallest-element-in-a-bst
 
-🔹 Construct Binary Tree from Preorder and Inorder Traversal (#105)
+🔹 Construct Binary Tree from Preorder and Inorder Traversal (#105)✅
 🔗 leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+
+🔹 Construct Binary Tree from Postorder and Inorder Traversal (#105)?
+🔗 leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
 
 🔹 Binary Tree Maximum Path Sum (#124)
 🔗 leetcode.com/problems/binary-tree-maximum-path-sum
