@@ -66,5 +66,4 @@ public class LC21_MergeTwoSortedLists {
 
         return dummy.next;
     }
-
 }

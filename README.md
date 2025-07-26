@@ -125,10 +125,10 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Reverse Linked List (#206)✅
 🔗 leetcode.com/problems/reverse-linked-list
 
-🔹 Merge Two Sorted Lists (#21)
+🔹 Merge Two Sorted Lists (#21)✅
 🔗 leetcode.com/problems/merge-two-sorted-lists
 
-🔹 Linked List Cycle (#141)
+🔹 Linked List Cycle (#141)✅
 🔗 leetcode.com/problems/linked-list-cycle
 
 🔹 Reorder List (#143)
