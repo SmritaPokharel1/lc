@@ -137,7 +137,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Reorder List (#143)✅
 🔗 leetcode.com/problems/reorder-list
 
-🔹 Remove Nth Node From End of List (#19)
+🔹 Remove Nth Node From End of List (#19)✅
 🔗 leetcode.com/problems/remove-nth-node-from-end-of-list
 
 🔹 Copy List With Random Pointer (#138)
