@@ -1,5 +1,8 @@
+This is my personal LeetCode journey, based on NeetCode.io and a bunch of other hand-picked problems I've come across. Some of these are done, some are WIP, and some I still need to add here.
 
-A curated list of LeetCode problems organized by topic based on https://neetcode.io/
+This repo is an evolving space where I document what  I’ve solved, what I’m stuck on, and what I need to revisit.
+
+After doing months of Leetcode, I realised that its like a bottomless pit and its better to put some limits
 
 https://leetcode.com/u/smrita_pokharel/
 
@@ -198,8 +201,11 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Kth Smallest Element in a BST (#230)✅
 🔗 leetcode.com/problems/kth-smallest-element-in-a-bst
 
-🔹 Construct Binary Tree from Preorder and Inorder Traversal (#105)
+🔹 Construct Binary Tree from Preorder and Inorder Traversal (#105)✅
 🔗 leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+
+🔹 Construct Binary Tree from Postorder and Inorder Traversal (#105)?
+🔗 leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
 
 🔹 Binary Tree Maximum Path Sum (#124)
 🔗 leetcode.com/problems/binary-tree-maximum-path-sum
@@ -222,16 +228,16 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Heap
 
-🔹 Kth Largest Element in a Stream (#703)
+🔹 Kth Largest Element in a Stream (#703)✅
 🔗 leetcode.com/problems/kth-largest-element-in-a-stream
 
-🔹 Last Stone Weight (#1046)
+🔹 Last Stone Weight (#1046)✅
 🔗 leetcode.com/problems/last-stone-weight
 
 🔹 K Closest Points to Origin (#973)
 🔗 leetcode.com/problems/k-closest-points-to-origin
 
-🔹 Kth Largest Element in an Array (#215)
+🔹 Kth Largest Element in an Array (#215)✅
 🔗 leetcode.com/problems/kth-largest-element-in-an-array
 
 🔹 Task Scheduler (#621)
@@ -487,7 +493,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Math & Geometry
 
-🔹 Rotate Image (#48)
+🔹 Rotate Image (#48)✅
 🔗 leetcode.com/problems/rotate-image
 
 🔹 Spiral Matrix (#54)
