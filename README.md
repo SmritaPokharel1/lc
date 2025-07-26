@@ -165,7 +165,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Invert Binary Tree (#226)✅
 🔗 leetcode.com/problems/invert-binary-tree
 
-🔹 Maximum Depth of Binary Tree (#104)
+🔹 Maximum Depth of Binary Tree (#104)✅
 🔗 leetcode.com/problems/maximum-depth-of-binary-tree
 
 🔹 Diameter of Binary Tree (#543)
