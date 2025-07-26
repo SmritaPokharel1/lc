@@ -143,7 +143,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Copy List With Random Pointer (#138)
 🔗 leetcode.com/problems/copy-list-with-random-pointer
 
-🔹 Add Two Numbers (#2)
+🔹 Add Two Numbers (#2)✅
 🔗 leetcode.com/problems/add-two-numbers
 
 🔹 Find the Duplicate Number (#287)
