@@ -405,10 +405,10 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 House Robber II (#213)✅
 🔗 leetcode.com/problems/house-robber-ii
 
-🔹 Longest Palindromic Substring (#5)
+🔹 Longest Palindromic Substring (#5)✅
 🔗 leetcode.com/problems/longest-palindromic-substring
 
-🔹 Palindromic Substrings (#647)
+🔹 Palindromic Substrings (#647)✅
 🔗 leetcode.com/problems/palindromic-substrings
 
 🔹 Decode Ways (#91)
