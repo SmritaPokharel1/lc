@@ -351,7 +351,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Backtracking + Graph
 
-🔹 Number of Islands (#200)
+🔹 Number of Islands (#200)✅
 🔗 leetcode.com/problems/number-of-islands
 
 🔹 Max Area of Island (#695)
