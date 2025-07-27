@@ -1,6 +1,8 @@
 This is my personal LeetCode journey, based on NeetCode.io and a bunch of other hand-picked problems I've come across. Some of these are done, some are WIP, and some I still need to add here.
 
-This repo is an evolving space where I document what  I’ve solved, what I’m stuck on, and what I need to revisit 
+This repo is an evolving space where I document what  I’ve solved, what I’m stuck on, and what I need to revisit.
+
+After doing months of Leetcode, I realised that its like a bottomless pit and its better to put some limits
 
 
 https://leetcode.com/u/smrita_pokharel/
