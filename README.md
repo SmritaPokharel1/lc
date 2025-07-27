@@ -1,8 +1,7 @@
 
 This is my personal LeetCode journey, based on NeetCode.io and a bunch of other hand-picked problems I've come across. 
 Some of these are done, some are WIP, and some I still need to add here. This repo is an evolving space where I document
-what  I’ve solved, what I’m stuck on, and what I need to revisit. I love LC because I love solving really complex & hard 
-problems.
+what  I’ve solved, what I’m stuck on, and what I need to revisit.
 
 https://leetcode.com/u/smrita_pokharel/
 
@@ -264,7 +263,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Meeting Rooms (#252)✅
 🔗 leetcode.com/problems/meeting-rooms
 
-🔹 Meeting Rooms II (#253)
+🔹 Meeting Rooms II (#253)✅
 🔗 leetcode.com/problems/meeting-rooms-ii
 
 🔹 Minimum Interval to Include Each Query (#1851)
@@ -321,22 +320,22 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Backtracking
 
-🔹 Subsets (#78)
+🔹 Subsets (#78)✅
 🔗 leetcode.com/problems/subsets
 
-🔹 Combination Sum (#39)
+🔹 Combination Sum (#39)✅
 🔗 leetcode.com/problems/combination-sum
 
-🔹 Combination Sum II (#40)
+🔹 Combination Sum II (#40)ℹ️
 🔗 leetcode.com/problems/combination-sum-ii
 
-🔹 Permutations (#46)
+🔹 Permutations (#46)✅
 🔗 leetcode.com/problems/permutations
 
-🔹 Subsets II (#90)
+🔹 Subsets II (#90)ℹ️
 🔗 leetcode.com/problems/subsets-ii
 
-🔹 Word Search (#79)
+🔹 Word Search (#79)✅
 🔗 leetcode.com/problems/word-search
 
 🔹 Palindrome Partitioning (#131)
