@@ -194,7 +194,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Best time to buy and sell stocks II (#122)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)✅
 - [Best time to buy and sell stocks III (#123)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)✅
 - [Best time to buy and sell stocks IV (#188)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)✅
-- [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)✅
 
 ## Bit Manipulation
 
