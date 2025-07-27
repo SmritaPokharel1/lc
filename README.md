@@ -360,7 +360,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Clone Graph (#133)✅
 🔗 leetcode.com/problems/clone-graph
 
-🔹 Walls And Gates (#286)
+🔹 Walls And Gates (#286)✅
 🔗 leetcode.com/problems/walls-and-gates
 
 🔹 Rotting Oranges (#994)
