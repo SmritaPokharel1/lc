@@ -1,4 +1,4 @@
-package graph;
+package backtracking.graph;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -31,10 +31,12 @@ import java.util.Queue;
  * ]
  * Output: 3
  *
- * https://leetcode.com/problems/number-of-islands/description/
  *
+ * https://leetcode.com/problems/number-of-islands/description/
  */
 public class LC200_NoOfIslands {
+
+    int noOfIslands = 0;
 
     private static final List<int[]> DIRECTIONS = Arrays.asList(
 
@@ -44,10 +46,6 @@ public class LC200_NoOfIslands {
             new int[]{0, -1}
     );
 
-    public int numIslands(char[][] grid) {
-        return bfs(grid);
-    }
-
     public int bfs(char[][] grid){
 
         Queue<int[]> queue = new LinkedList<>();
@@ -55,34 +53,32 @@ public class LC200_NoOfIslands {
         int m = grid.length;
         int n = grid[0].length;
 
-        int noOfIslands = 0;
+        for(int i = 0; i < m; i++){
 
-        for(int row = 0; row < m; row ++){
+            for(int j = 0; j < n; j++){
 
-            for(int col = 0; col < n; col ++){
-
-                if(grid[row][col] == '1'){
+                if(grid[i][j]=='1'){
 
                     noOfIslands ++;
-
-                    grid[row][col] = '0';
-
-                    queue.add(new int[]{row,col});
+                    queue.add(new int[]{i,j});
 
                     while(!queue.isEmpty()){
 
-                        int[] point = queue.remove();
-                        for(int[] direction : DIRECTIONS){
+                        int[] dir = queue.poll();
 
-                            int r = point[0] + direction[0];
-                            int c = point[1] + direction[1];
+                        int r = dir[0];
+                        int c = dir[1];
 
-                            if(r >= m || r < 0 || c >= n || c < 0 || grid[r][c] =='0') continue;
+                        for(int[] d:DIRECTIONS){
 
-                            if(grid[r][c]=='1'){
-                                grid[r][c] = '0';
-                                queue.add(new int[]{r,c});
-                            }
+                            int row = d[0] + r;
+                            int col = d[1] + c;
+
+                            if(row >= m || row <0 || col >=n || col <0 || grid[row][col] == '0') continue;
+
+                            grid[row][col] = '0';
+
+                            queue.add(new int[]{row,col});
                         }
                     }
                 }
@@ -92,42 +88,43 @@ public class LC200_NoOfIslands {
         return noOfIslands;
     }
 
-    public int numIslandsDfs(char[][] grid) {
+    public int numIslands(char[][] grid) {
 
-        int noOfIsland = 0;
+        return bfs(grid);
+    }
+
+    public int numIslandsdfs(char[][] grid) {
+
         int m = grid.length;
         int n = grid[0].length;
 
-        for(int i =0; i < m ; i++){
+        for(int i = 0; i < m; i++){
 
             for(int j = 0; j < n; j++){
 
                 if(grid[i][j]=='1'){
 
-                    noOfIsland++;
-                    dfs(grid, i, j);
+                    noOfIslands ++;
+                    dfs(grid, i,j);
                 }
             }
         }
 
-        return noOfIsland;
+        return noOfIslands;
     }
 
-    public void dfs(char[][] grid, int i, int j){
-
+    public void dfs(char[][] grid, int row, int col){
 
         int m = grid.length;
         int n = grid[0].length;
 
-        if( i >= m || j >= n || i < 0 || j < 0) return;
+        if(row <0 || row >=m || col < 0 || col >= n || grid[row][col]=='0') return ;
 
-        if(grid[i][j] =='0') return;
+        grid[row][col] = '0';
 
-        grid[i][j] = '0';
-
-        dfs(grid, i-1, j);
-        dfs(grid, i, j-1);
-        dfs(grid, i+1, j);
-        dfs(grid, i, j+1);
+        dfs(grid,row+1, col);
+        dfs(grid, row, col+1);
+        dfs(grid, row -1, col);
+        dfs(grid, row, col -1);
     }
 }

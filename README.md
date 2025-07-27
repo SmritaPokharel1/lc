@@ -1,8 +1,7 @@
 
 This is my personal LeetCode journey, based on NeetCode.io and a bunch of other hand-picked problems I've come across. 
 Some of these are done, some are WIP, and some I still need to add here. This repo is an evolving space where I document
-what  I’ve solved, what I’m stuck on, and what I need to revisit. I love LC because I love solving really complex & hard 
-problems.
+what  I’ve solved, what I’m stuck on, and what I need to revisit.
 
 https://leetcode.com/u/smrita_pokharel/
 
@@ -204,10 +203,10 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Construct Binary Tree from Preorder and Inorder Traversal (#105)✅
 🔗 leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 
-🔹 Construct Binary Tree from Postorder and Inorder Traversal (#105)?
+🔹 Construct Binary Tree from Postorder and Inorder Traversal (#105)ℹ️
 🔗 leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
 
-🔹 Binary Tree Maximum Path Sum (#124)
+🔹 Binary Tree Maximum Path Sum (#124)✅
 🔗 leetcode.com/problems/binary-tree-maximum-path-sum
 
 🔹 Serialize and Deserialize Binary Tree (#297)
@@ -216,7 +215,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Trie
 
-🔹 Implement Trie (Prefix Tree) (#208)
+🔹 Implement Trie (Prefix Tree) (#208)✅
 🔗 leetcode.com/problems/implement-trie-prefix-tree
 
 🔹 Design Add and Search Words Data Structure (#211)
@@ -246,25 +245,25 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Design Twitter (#355)
 🔗 leetcode.com/problems/design-twitter
 
-🔹 Find Median from Data Stream (#295)
+🔹 Find Median from Data Stream (#295)✅
 🔗 leetcode.com/problems/find-median-from-data-stream
 
 
 ## Heap - Intervals
 
-🔹 Insert Interval (#57)
+🔹 Insert Interval (#57)✅
 🔗 leetcode.com/problems/insert-interval
 
-🔹 Merge Intervals (#56)
+🔹 Merge Intervals (#56)✅
 🔗 leetcode.com/problems/merge-intervals
 
 🔹 Non-overlapping Intervals (#435)
 🔗 leetcode.com/problems/non-overlapping-intervals
 
-🔹 Meeting Rooms (#252)
+🔹 Meeting Rooms (#252)✅
 🔗 leetcode.com/problems/meeting-rooms
 
-🔹 Meeting Rooms II (#253)
+🔹 Meeting Rooms II (#253)✅
 🔗 leetcode.com/problems/meeting-rooms-ii
 
 🔹 Minimum Interval to Include Each Query (#1851)
@@ -321,22 +320,22 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Backtracking
 
-🔹 Subsets (#78)
+🔹 Subsets (#78)✅
 🔗 leetcode.com/problems/subsets
 
-🔹 Combination Sum (#39)
+🔹 Combination Sum (#39)✅
 🔗 leetcode.com/problems/combination-sum
 
-🔹 Combination Sum II (#40)
+🔹 Combination Sum II (#40)ℹ️
 🔗 leetcode.com/problems/combination-sum-ii
 
-🔹 Permutations (#46)
+🔹 Permutations (#46)✅
 🔗 leetcode.com/problems/permutations
 
-🔹 Subsets II (#90)
+🔹 Subsets II (#90)ℹ️
 🔗 leetcode.com/problems/subsets-ii
 
-🔹 Word Search (#79)
+🔹 Word Search (#79)✅
 🔗 leetcode.com/problems/word-search
 
 🔹 Palindrome Partitioning (#131)
@@ -352,16 +351,16 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Backtracking + Graph
 
-🔹 Number of Islands (#200)
+🔹 Number of Islands (#200)✅
 🔗 leetcode.com/problems/number-of-islands
 
-🔹 Max Area of Island (#695)
+🔹 Max Area of Island (#695)✅
 🔗 leetcode.com/problems/max-area-of-island
 
-🔹 Clone Graph (#133)
+🔹 Clone Graph (#133)✅
 🔗 leetcode.com/problems/clone-graph
 
-🔹 Walls And Gates (#286)
+🔹 Walls And Gates (#286)✅
 🔗 leetcode.com/problems/walls-and-gates
 
 🔹 Rotting Oranges (#994)
@@ -370,13 +369,13 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Pacific Atlantic Water Flow (#417)
 🔗 leetcode.com/problems/pacific-atlantic-water-flow
 
-🔹 Surrounded Regions (#130)
+🔹 Surrounded Regions (#130)✅
 🔗 leetcode.com/problems/surrounded-regions
 
-🔹 Course Schedule (#207)
+🔹 Course Schedule (#207)✅
 🔗 leetcode.com/problems/course-schedule
 
-🔹 Course Schedule II (#210)
+🔹 Course Schedule II (#210)✅
 🔗 leetcode.com/problems/course-schedule-ii
 
 🔹 Graph Valid Tree (#261)
@@ -394,22 +393,22 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## 1D DP
 
-🔹 Climbing Stairs (#70)
+🔹 Climbing Stairs (#70)✅
 🔗 leetcode.com/problems/climbing-stairs
 
-🔹 Min Cost Climbing Stairs (#746)
+🔹 Min Cost Climbing Stairs (#746)✅
 🔗 leetcode.com/problems/min-cost-climbing-stairs
 
-🔹 House Robber (#198)
+🔹 House Robber (#198)✅
 🔗 leetcode.com/problems/house-robber
 
-🔹 House Robber II (#213)
+🔹 House Robber II (#213)✅
 🔗 leetcode.com/problems/house-robber-ii
 
-🔹 Longest Palindromic Substring (#5)
+🔹 Longest Palindromic Substring (#5)✅
 🔗 leetcode.com/problems/longest-palindromic-substring
 
-🔹 Palindromic Substrings (#647)
+🔹 Palindromic Substrings (#647)✅
 🔗 leetcode.com/problems/palindromic-substrings
 
 🔹 Decode Ways (#91)
