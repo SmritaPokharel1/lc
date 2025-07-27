@@ -1,4 +1,4 @@
-package graph;
+package backtracking.graph;
 
 import java.util.LinkedList;
 import java.util.Queue;
