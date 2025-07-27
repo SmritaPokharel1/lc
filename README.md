@@ -179,7 +179,7 @@ https://leetcode.com/u/smrita_pokharel/
 ## 2D DP
 
 - [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)✅
-- [Longest Common Subsequence (#1143)](https://leetcode.com/problems/longest-common-subsequence/)
+- [Longest Common Subsequence (#1143)](https://leetcode.com/problems/longest-common-subsequence/)✅
 - [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)
 - [Target Sum (#494)](https://leetcode.com/problems/target-sum/)
