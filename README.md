@@ -216,7 +216,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Trie
 
-🔹 Implement Trie (Prefix Tree) (#208)
+🔹 Implement Trie (Prefix Tree) (#208)✅
 🔗 leetcode.com/problems/implement-trie-prefix-tree
 
 🔹 Design Add and Search Words Data Structure (#211)
