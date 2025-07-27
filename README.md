@@ -414,7 +414,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Decode Ways (#91)
 🔗 leetcode.com/problems/decode-ways
 
-🔹 Coin Change (#322)
+🔹 Coin Change (#322)✅
 🔗 leetcode.com/problems/coin-change
 
 🔹 Maximum Product Subarray (#152)
