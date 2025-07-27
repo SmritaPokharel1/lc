@@ -174,11 +174,11 @@ https://leetcode.com/u/smrita_pokharel/
 - [Maximum Product Subarray (#152)](https://leetcode.com/problems/maximum-product-subarray/) ℹ️
 - [Word Break (#139)](https://leetcode.com/problems/word-break/) ℹ️
 - [Longest Increasing Subsequence (#300)](https://leetcode.com/problems/longest-increasing-subsequence/) ℹ️
-- [Partition Equal Subset Sum (#416)](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [Partition Equal Subset Sum (#416)](https://leetcode.com/problems/partition-equal-subset-sum/) ✅
 
 ## 2D DP
 
-- [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)
+- [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)✅
 - [Longest Common Subsequence (#1143)](https://leetcode.com/problems/longest-common-subsequence/)
 - [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)
