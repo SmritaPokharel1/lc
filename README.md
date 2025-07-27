@@ -174,7 +174,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Maximum Product Subarray (#152)](https://leetcode.com/problems/maximum-product-subarray/) ℹ️
 - [Word Break (#139)](https://leetcode.com/problems/word-break/) ℹ️
 - [Longest Increasing Subsequence (#300)](https://leetcode.com/problems/longest-increasing-subsequence/) ℹ️
-- [Partition Equal Subset Sum (#416)](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [Partition Equal Subset Sum (#416)](https://leetcode.com/problems/partition-equal-subset-sum/) ✅
 
 ## 2D DP
 
