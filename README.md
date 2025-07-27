@@ -246,7 +246,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Design Twitter (#355)
 🔗 leetcode.com/problems/design-twitter
 
-🔹 Find Median from Data Stream (#295)
+🔹 Find Median from Data Stream (#295)✅
 🔗 leetcode.com/problems/find-median-from-data-stream
 
 
