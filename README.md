@@ -393,16 +393,16 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## 1D DP
 
-🔹 Climbing Stairs (#70)
+🔹 Climbing Stairs (#70)✅
 🔗 leetcode.com/problems/climbing-stairs
 
-🔹 Min Cost Climbing Stairs (#746)
+🔹 Min Cost Climbing Stairs (#746)✅
 🔗 leetcode.com/problems/min-cost-climbing-stairs
 
-🔹 House Robber (#198)
+🔹 House Robber (#198)✅
 🔗 leetcode.com/problems/house-robber
 
-🔹 House Robber II (#213)
+🔹 House Robber II (#213)✅
 🔗 leetcode.com/problems/house-robber-ii
 
 🔹 Longest Palindromic Substring (#5)
