@@ -204,10 +204,10 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Construct Binary Tree from Preorder and Inorder Traversal (#105)✅
 🔗 leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 
-🔹 Construct Binary Tree from Postorder and Inorder Traversal (#105)?
+🔹 Construct Binary Tree from Postorder and Inorder Traversal (#105)ℹ️
 🔗 leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
 
-🔹 Binary Tree Maximum Path Sum (#124)
+🔹 Binary Tree Maximum Path Sum (#124)✅
 🔗 leetcode.com/problems/binary-tree-maximum-path-sum
 
 🔹 Serialize and Deserialize Binary Tree (#297)
