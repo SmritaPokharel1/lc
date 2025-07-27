@@ -252,16 +252,16 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Heap - Intervals
 
-🔹 Insert Interval (#57)
+🔹 Insert Interval (#57)✅
 🔗 leetcode.com/problems/insert-interval
 
-🔹 Merge Intervals (#56)
+🔹 Merge Intervals (#56)✅
 🔗 leetcode.com/problems/merge-intervals
 
 🔹 Non-overlapping Intervals (#435)
 🔗 leetcode.com/problems/non-overlapping-intervals
 
-🔹 Meeting Rooms (#252)
+🔹 Meeting Rooms (#252)✅
 🔗 leetcode.com/problems/meeting-rooms
 
 🔹 Meeting Rooms II (#253)
