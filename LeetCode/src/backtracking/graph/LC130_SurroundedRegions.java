@@ -115,7 +115,6 @@ public class LC130_SurroundedRegions {
 
                 queue.add(new int[]{r, c});
             }
-
         }
 
         for (int i = 0; i < m; i++) {

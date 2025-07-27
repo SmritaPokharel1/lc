@@ -372,10 +372,10 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Surrounded Regions (#130)✅
 🔗 leetcode.com/problems/surrounded-regions
 
-🔹 Course Schedule (#207)
+🔹 Course Schedule (#207)✅
 🔗 leetcode.com/problems/course-schedule
 
-🔹 Course Schedule II (#210)
+🔹 Course Schedule II (#210)✅
 🔗 leetcode.com/problems/course-schedule-ii
 
 🔹 Graph Valid Tree (#261)

@@ -1,4 +1,4 @@
-package graph;
+package backtracking.graph;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -28,7 +28,7 @@ import java.util.Queue;
  *
  */
 //https://leetcode.com/problems/course-schedule/description/?envType=study-plan-v2&envId=top-interview-150
-public class LC207_TopologicalSort {
+public class LC207_CourseSchedule {
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
 
