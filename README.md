@@ -180,7 +180,6 @@ https://leetcode.com/u/smrita_pokharel/
 
 - [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)✅
 - [Longest Common Subsequence (#1143)](https://leetcode.com/problems/longest-common-subsequence/)✅
-- [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)
 - [Target Sum (#494)](https://leetcode.com/problems/target-sum/)
 - [Interleaving String (#97)](https://leetcode.com/problems/interleaving-string/)
@@ -189,6 +188,13 @@ https://leetcode.com/u/smrita_pokharel/
 - [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)
 - [Burst Balloons (#312)](https://leetcode.com/problems/burst-balloons/)
 - [Regular Expression Matching (#10)](https://leetcode.com/problems/regular-expression-matching/)
+
+## Stocks
+- [Best time to buy and sell stocks(#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)✅
+- [Best time to buy and sell stocks II (#122)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)✅
+- [Best time to buy and sell stocks III (#123)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)✅
+- [Best time to buy and sell stocks IV (#188)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)✅
+- [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
 ## Bit Manipulation
 
