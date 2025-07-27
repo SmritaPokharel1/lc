@@ -354,7 +354,7 @@ https://leetcode.com/u/smrita_pokharel/
 🔹 Number of Islands (#200)✅
 🔗 leetcode.com/problems/number-of-islands
 
-🔹 Max Area of Island (#695)
+🔹 Max Area of Island (#695)✅
 🔗 leetcode.com/problems/max-area-of-island
 
 🔹 Clone Graph (#133)
