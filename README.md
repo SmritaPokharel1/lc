@@ -204,7 +204,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Counting Bits (#338)](https://leetcode.com/problems/counting-bits/)✅
 - [Reverse Bits (#190)](https://leetcode.com/problems/reverse-bits/)✅
 - [Missing Number (#268)](https://leetcode.com/problems/missing-number/)✅
-- [Sum of Two Integers (#371)](https://leetcode.com/problems/sum-of-two-integers/)
+- [Sum of Two Integers (#371)](https://leetcode.com/problems/sum-of-two-integers/)✅
 - [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/)
 
 ## Math & Geometry
