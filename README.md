@@ -181,12 +181,12 @@ https://leetcode.com/u/smrita_pokharel/
 - [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)✅
 - [Longest Common Subsequence (#1143)](https://leetcode.com/problems/longest-common-subsequence/)✅
 - [Coin Change (#322)](https://leetcode.com/problems/coin-change/description/)✅
-- [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)ℹ️
-- [Target Sum (#494)](https://leetcode.com/problems/target-sum/)
+- [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)✅
+- [Target Sum (#494)](https://leetcode.com/problems/target-sum/)ℹ️
 - [Interleaving String (#97)](https://leetcode.com/problems/interleaving-string/)
 - [Longest Increasing Path in a Matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)✅
-- [Distinct Subsequences (#115)](https://leetcode.com/problems/distinct-subsequences/)
-- [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)
+- [Distinct Subsequences (#115)](https://leetcode.com/problems/distinct-subsequences/)✅
+- [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)✅
 - [Burst Balloons (#312)](https://leetcode.com/problems/burst-balloons/)
 - [Regular Expression Matching (#10)](https://leetcode.com/problems/regular-expression-matching/)
 
