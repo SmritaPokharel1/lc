@@ -214,6 +214,6 @@ https://leetcode.com/u/smrita_pokharel/
 - [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)✅
 - [Happy Number (#202)](https://leetcode.com/problems/happy-number/)✅
 - [Plus One (#66)](https://leetcode.com/problems/plus-one/)✅
-- [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)
+- [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)✅
 - [Multiply Strings (#43)](https://leetcode.com/problems/multiply-strings/)
 - [Detect Squares (#2013)](https://leetcode.com/problems/detect-squares/)
