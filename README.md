@@ -210,10 +210,10 @@ https://leetcode.com/u/smrita_pokharel/
 ## Math & Geometry
 
 - [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) ✅
-- [Spiral Matrix (#54)](https://leetcode.com/problems/spiral-matrix/)
-- [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)
-- [Happy Number (#202)](https://leetcode.com/problems/happy-number/)
-- [Plus One (#66)](https://leetcode.com/problems/plus-one/)
+- [Spiral Matrix (#54)](https://leetcode.com/problems/spiral-matrix/)ℹ️
+- [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)✅
+- [Happy Number (#202)](https://leetcode.com/problems/happy-number/)✅
+- [Plus One (#66)](https://leetcode.com/problems/plus-one/)✅
 - [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)
 - [Multiply Strings (#43)](https://leetcode.com/problems/multiply-strings/)
 - [Detect Squares (#2013)](https://leetcode.com/problems/detect-squares/)
