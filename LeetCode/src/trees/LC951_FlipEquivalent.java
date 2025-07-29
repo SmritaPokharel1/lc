@@ -1,7 +1,7 @@
 package trees;
 
 //https://leetcode.com/problems/flip-equivalent-binary-trees/
-public class FlipEquivalent {
+public class LC951_FlipEquivalent {
 
     public boolean flipEquiv(TreeNode root1, TreeNode root2) {
 

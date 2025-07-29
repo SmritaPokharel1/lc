@@ -1,8 +1,10 @@
 package trees;
 
 
-//https://leetcode.com/problems/insert-into-a-binary-search-tree/
-public class InsertIntoBST {
+/**
+ * https://leetcode.com/problems/insert-into-a-binary-search-tree/
+ */
+public class LC701_InsertIntoBST {
 
     public TreeNode insertIntoBST(TreeNode root, int val) {
 

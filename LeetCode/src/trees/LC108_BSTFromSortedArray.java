@@ -1,7 +1,9 @@
 package trees;
 
-//https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-public class BSTFromSortedArray {
+/**
+ * https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+ */
+public class LC108_BSTFromSortedArray {
 
     public TreeNode sortedArrayToBST(int[] nums) {
         return createBST(nums,0,nums.length-1);

@@ -1,6 +1,9 @@
 package trees;
 
-public class ValidBST {
+/**
+ * https://leetcode.com/problems/validate-binary-search-tree/description/
+ */
+public class LC98_ValidBST {
 
     public boolean isValidBST(TreeNode root) {
         return isValid(root, Long.MIN_VALUE, Long.MAX_VALUE);

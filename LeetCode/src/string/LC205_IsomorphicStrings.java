@@ -3,8 +3,10 @@ package string;
 import java.util.HashMap;
 import java.util.Map;
 
-//https://leetcode.com/problems/isomorphic-strings/description/
-public class IsomorphicStrings {
+/**
+ * https://leetcode.com/problems/isomorphic-strings/description/
+ */
+public class LC205_IsomorphicStrings {
 
     public boolean isIsomorphic(String s, String t) {
 

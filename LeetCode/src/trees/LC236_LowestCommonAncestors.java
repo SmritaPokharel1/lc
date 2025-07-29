@@ -1,6 +1,9 @@
 package trees;
 
-public class LowestCommonAncestors {
+/**
+ * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+ */
+public class LC236_LowestCommonAncestors {
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 

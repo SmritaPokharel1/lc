@@ -2,7 +2,7 @@ package trees;
 
 
 //https://leetcode.com/problems/search-in-a-binary-search-tree/
-public class SearchBST {
+public class LC700_SearchBST {
 
     public TreeNode searchBST(TreeNode root, int val) {
 

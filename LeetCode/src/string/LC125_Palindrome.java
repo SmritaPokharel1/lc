@@ -1,6 +1,6 @@
 package string;
 
-public class Palindrome {
+public class LC125_Palindrome {
 
     public static Boolean isPalindrome(String s){
 

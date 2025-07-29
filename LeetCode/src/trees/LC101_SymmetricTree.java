@@ -1,6 +1,6 @@
 package trees;
 
-public class SymmetricTree {
+public class LC101_SymmetricTree {
 
     public boolean isSymmetric(TreeNode root) {
 

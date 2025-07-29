@@ -2,7 +2,10 @@ package linkedlist;
 
 import java.util.Stack;
 
-public class IsPalindrome {
+/**
+ * https://leetcode.com/problems/palindrome-linked-list/description/
+ */
+public class LC234_IsPalindrome {
 
     public boolean isPanlindrome(ListNode head){
 

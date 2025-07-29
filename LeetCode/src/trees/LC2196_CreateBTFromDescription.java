@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 //https://leetcode.com/problems/create-binary-tree-from-descriptions/
-public class CreateBTFromDescription {
+public class LC2196_CreateBTFromDescription {
 
     public TreeNode createBinaryTree(int[][] descriptions) {
 

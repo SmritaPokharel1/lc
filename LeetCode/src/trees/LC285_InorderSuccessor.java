@@ -1,7 +1,7 @@
 package trees;
 
 //https://leetcode.com/problems/inorder-successor-in-bst/description/
-public class InorderSuccessor_285 {
+public class LC285_InorderSuccessor {
 
     TreeNode successor = null;
 

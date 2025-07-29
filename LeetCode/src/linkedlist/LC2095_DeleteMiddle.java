@@ -1,6 +1,9 @@
 package linkedlist;
 
-public class DeleteMiddle {
+/**
+ * https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
+ */
+public class LC2095_DeleteMiddle {
 
     public ListNode deleteMiddle(ListNode head) {
 

@@ -3,7 +3,7 @@ package string;
 import java.util.*;
 
 //https://leetcode.com/problems/group-anagrams
-public class GroupAnagramTogether {
+public class LC49_GroupAnagramTogether {
 
     //Performance 1057 ms Beats 5.02%
     public static List<List<String>> groupAnagramOne(String[] strs) {

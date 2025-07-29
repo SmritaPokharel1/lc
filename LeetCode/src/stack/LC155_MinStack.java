@@ -2,13 +2,13 @@ package stack;
 
 import java.util.Stack;
 
-public class MinStack {
+public class LC155_MinStack {
 
     private Stack<Integer> stack;
 
     private Stack<Integer> minStack;
 
-    public MinStack() {
+    public LC155_MinStack() {
 
         stack = new Stack<>();
         minStack = new Stack<>();

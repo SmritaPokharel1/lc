@@ -1,6 +1,9 @@
 package string;
 
-public class NoOfJewels {
+/**
+ * https://leetcode.com/problems/jewels-and-stones/
+ */
+public class LC771_NoOfJewels {
 
     public int numJewelsInStones(String jewels, String stones) {
 

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 //https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1652101467/
-public class FirstUniqueCharacter {
+public class LC387_FirstUniqueCharacter {
 
 
     public int firstUniqCharWithAsciiArray(String s){

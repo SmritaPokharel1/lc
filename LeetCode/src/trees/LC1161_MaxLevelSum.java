@@ -3,7 +3,7 @@ package trees;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class MaxLevelSum {
+public class LC1161_MaxLevelSum {
 
     public int maxLevelSum(TreeNode root) {
 

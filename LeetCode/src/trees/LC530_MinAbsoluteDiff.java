@@ -4,9 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
-//https://leetcode.com/problems/minimum-absolute-difference-in-bst/
-public class AbsoluteDiff {
+/**
+ * https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
+ */
+public class LC530_MinAbsoluteDiff {
 
     List<Integer> minNums = new ArrayList<>();
 

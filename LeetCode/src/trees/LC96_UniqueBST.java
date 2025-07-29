@@ -2,7 +2,7 @@ package trees;
 
 //https://leetcode.com/problems/unique-binary-search-trees
 //https://medium.com/@smrita/catalan-number-42b33ae2c2ca
-public class UniqueBST {
+public class LC96_UniqueBST {
 
     public int numTrees(int n) {
 

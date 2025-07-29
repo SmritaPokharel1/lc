@@ -1,7 +1,7 @@
 package string;
 
 //https://leetcode.com/problems/rotate-string/
-public class RotateString {
+public class LC796_RotateString {
 
     public boolean rotateString(String s, String goal) {
 

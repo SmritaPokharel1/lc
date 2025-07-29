@@ -1,7 +1,7 @@
 package string;
 
 //https://leetcode.com/problems/ransom-note/description/
-public class RandomNote_383 {
+public class LC383_RansomNote {
 
     public boolean canConstruct(String ransomNote, String magazine) {
 

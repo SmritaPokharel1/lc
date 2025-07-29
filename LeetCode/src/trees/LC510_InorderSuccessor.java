@@ -1,8 +1,9 @@
 package trees;
 
-
-//https://leetcode.com/problems/inorder-successor-in-bst-ii/
-public class InorderSuccessor {
+/**
+ * https://leetcode.com/problems/inorder-successor-in-bst-ii/
+ */
+public class LC510_InorderSuccessor {
 
     class Node {
         public int val;

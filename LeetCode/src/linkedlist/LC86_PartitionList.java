@@ -1,7 +1,7 @@
 package linkedlist;
 
 //https://leetcode.com/problems/partition-list/description/
-public class PartitionList {
+public class LC86_PartitionList {
 
     public ListNode partition(ListNode head, int x) {
 

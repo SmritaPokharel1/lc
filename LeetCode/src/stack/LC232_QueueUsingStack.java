@@ -2,12 +2,15 @@ package stack;
 
 import java.util.Stack;
 
-public class QueueUsingStack {
+/**
+ * https://leetcode.com/problems/implement-queue-using-stacks/description/
+ */
+public class LC232_QueueUsingStack {
 
     private Stack<Integer> stack;
     private Stack<Integer> buffer;
 
-    public QueueUsingStack() {
+    public LC232_QueueUsingStack() {
 
         stack = new Stack<>();
         buffer = new Stack<>();
