@@ -148,8 +148,9 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Heap - Greedy
 
-- [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/)
-- [Jump Game (#55)](https://leetcode.com/problems/jump-game/)
+- [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/) ➨ 
+  - [LC53_MaxSumSubArray.java](LeetCode/src/dynamicprogramming/kadanealgo/LC53_MaxSumSubArray.java)✅
+- [Jump Game (#55)](https://leetcode.com/problems/jump-game/) ➨ [LC55_JumpGame.java](LeetCode/src/dynamicprogramming/LC55_JumpGame.java)
 - [Jump Game II (#45)](https://leetcode.com/problems/jump-game-ii/)
 - [Gas Station (#134)](https://leetcode.com/problems/gas-station/)
 - [Hand of Straights (#846)](https://leetcode.com/problems/hand-of-straights/)
