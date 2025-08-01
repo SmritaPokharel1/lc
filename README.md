@@ -9,13 +9,16 @@ https://leetcode.com/u/smrita_pokharel/
 ## Arrays & Hashing
 
 - [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) ✅
+  - [LC217_ContainsDuplicate.java](LeetCode/src/arrays/LC217_ContainsDuplicate.java)
 - [Valid Anagram (#242)](https://leetcode.com/problems/valid-anagram/) ✅
+  - [LC242_ValidAnagram.java](LeetCode/src/arrays/LC242_ValidAnagram.java)
 - [Two Sum (#1)](https://leetcode.com/problems/two-sum/) ✅
+  - [LC1_TwoSum.java](LeetCode/src/arrays/LC1_TwoSum.java)
 - [Group Anagrams (#49)](https://leetcode.com/problems/group-anagrams/) ✅
-- [Top K Frequent Elements (#347)](https://leetcode.com/problems/top-k-frequent-elements/) ✅
+  - [LC49_GroupAnagramTogether.java](LeetCode/src/arrays/LC49_GroupAnagramTogether.java)
 - [Encode and Decode Strings (#271)](https://leetcode.com/problems/encode-and-decode-strings/)
 - [Product of Array Except Self (#238)](https://leetcode.com/problems/product-of-array-except-self/) ✅
-- [Valid Sudoku (#36)](https://leetcode.com/problems/valid-sudoku/) ✅
+  - [LC238_ProductOfArrayExceptSelf.java](LeetCode/src/arrays/LC238_ProductOfArrayExceptSelf.java)
 - [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ## Two Pointer
@@ -26,12 +29,47 @@ https://leetcode.com/u/smrita_pokharel/
 - [Container With Most Water (#11)](https://leetcode.com/problems/container-with-most-water/) ✅
 - [Trapping Rain Water (#42)](https://leetcode.com/problems/trapping-rain-water/)
 
+
+## Strings
+
+- [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/description/)
+- [Longest Common Prefix (#14)](https://leetcode.com/problems/longest-common-prefix/description/)
+- [Group Anagram together (#49)](https://leetcode.com/problems/group-anagrams/description/)
+- [Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/)
+- [Isomorphic Strings (#205)](https://leetcode.com/problems/isomorphic-strings/description/)
+- [Ransom Note (#383)](https://leetcode.com/problems/ransom-note/)
+- [First Unique Character (#87)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+- [Jewels And Stones (#771)](https://leetcode.com/problems/jewels-and-stones/)
+- [Rotate String (#796)](https://leetcode.com/problems/rotate-string/description/)
+- [Max diff between odd and even frequency (#3442)](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/)
+
+## Matrix
+
+- [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) ✅
+  - [LC48_RotateMatrix.java](LeetCode/src/matrix/LC48_RotateMatrix.java)
+- [Valid Sudoku (#36)](https://leetcode.com/problems/valid-sudoku/) ✅
+  - [LC36_ValidSudoku.java](LeetCode/src/matrix/LC36_ValidSudoku.java)
+- [Spiral Matrix (#54)](https://leetcode.com/problems/spiral-matrix/)ℹ️
+  - [LC54_SpiralMatrix.java](LeetCode/src/matrix/LC54_SpiralMatrix.java)
+- [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)✅
+  - [LC73_ZeroMatrix.java](LeetCode/src/matrix/LC73_ZeroMatrix.java)
+- [Search 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/description/)
+  - [LC74_Search2DMatrix.java](LeetCode/src/matrix/LC74_Search2DMatrix.java)
+- [Longest Increasing path in matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+  - [LC329_LongestIncreasingPathInMatrix.java](LeetCode/src/matrix/LC329_LongestIncreasingPathInMatrix.java)
+- [Longest Line of consecutive one (#562)](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/)
+  - [LC562_LongestLineOfConsecutiveOne.java](LeetCode/src/matrix/LC562_LongestLineOfConsecutiveOne.java)
+
 ## Stack
 
 - [Valid Parentheses (#20)](https://leetcode.com/problems/valid-parentheses/) ✅
+  - [LC20_ValidParentheses.java](LeetCode/src/stack/LC20_ValidParentheses.java)
 - [Min Stack (#155)](https://leetcode.com/problems/min-stack/)
+  - [LC155_MinStack.java](LeetCode/src/stack/LC155_MinStack.java)
 - [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ✅
-- [Generate Parentheses (#22)](https://leetcode.com/problems/generate-parentheses/) ✅
+  - [LC150_ReversePolishNotation.java](LeetCode/src/stack/LC150_ReversePolishNotation.java)
+- [Queue using stack (#232)](https://leetcode.com/problems/implement-queue-using-stacks/)
+  - [LC232_QueueUsingStack.java](LeetCode/src/stack/LC232_QueueUsingStack.java)
 - [Daily Temperatures (#739)](https://leetcode.com/problems/daily-temperatures/)
 - [Car Fleet (#853)](https://leetcode.com/problems/car-fleet/)
 - [Largest Rectangle in Histogram (#84)](https://leetcode.com/problems/largest-rectangle-in-histogram/)
@@ -39,11 +77,17 @@ https://leetcode.com/u/smrita_pokharel/
 ## Binary Search
 
 - [Search a 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/) ✅
-- [Koko Eating Bananas (#875)](https://leetcode.com/problems/koko-eating-bananas/)
+  - [LC74_Search2DMatrix.java](LeetCode/src/binarysearch/LC74_Search2DMatrix.java)
+- [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/description/)
+  - [LC35_SearchInsertPosition.java](LeetCode/src/binarysearch/LC35_SearchInsertPosition.java)
 - [Find Minimum in Rotated Sorted Array (#153)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ✅
+  - [LC153_FindMinInRotatedArray.java](LeetCode/src/binarysearch/LC153_FindMinInRotatedArray.java)
+- [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+  - [LC34_FirstAndLastPositionOfSortedArray.java](LeetCode/src/binarysearch/LC34_FirstAndLastPositionOfSortedArray.java)
 - [Search in Rotated Sorted Array (#33)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Time Based Key-Value Store (#981)](https://leetcode.com/problems/time-based-key-value-store/)
 - [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Koko Eating Bananas (#875)](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Sliding Window
 
@@ -53,6 +97,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Permutation in String (#567)](https://leetcode.com/problems/permutation-in-string/)
 - [Minimum Window Substring (#76)](https://leetcode.com/problems/minimum-window-substring/)
 - [Sliding Window Maximum (#239)](https://leetcode.com/problems/sliding-window-maximum/) ✅
+
 
 ## Linked List
 
@@ -71,22 +116,37 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Trees
 
-- [Invert Binary Tree (#226)](https://leetcode.com/problems/invert-binary-tree/) ✅
-- [Maximum Depth of Binary Tree (#104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ✅
-- [Diameter of Binary Tree (#543)](https://leetcode.com/problems/diameter-of-binary-tree/)
-- [Balanced Binary Tree (#110)](https://leetcode.com/problems/balanced-binary-tree/) ✅
-- [Same Tree (#100)](https://leetcode.com/problems/same-tree/) ✅
-- [Subtree of Another Tree (#572)](https://leetcode.com/problems/subtree-of-another-tree/) ✅
-- [Lowest Common Ancestor of a Binary Search Tree (#235)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) ✅
-- [Binary Tree Right Side View (#199)](https://leetcode.com/problems/binary-tree-right-side-view/) ✅
-- [Count Good Nodes In Binary Tree (#1448)](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [Inorder traversal in BST (#94)](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+- [Unique BST (#96)](https://leetcode.com/problems/unique-binary-search-trees/description/)
 - [Validate Binary Search Tree (#98)](https://leetcode.com/problems/validate-binary-search-tree/)
-- [Kth Smallest Element in a BST (#230)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ✅
+- [Same Tree (#100)](https://leetcode.com/problems/same-tree/) ✅
+- [Symmetric Tree (#101)](https://leetcode.com/problems/symmetric-tree/description/)
+- [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) ✅
+- [Binary Tree Zigzac Level Order Traversal (#103)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) ✅
+- [Maximum Depth of Binary Tree (#104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ✅
 - [Construct Binary Tree from Preorder and Inorder Traversal (#105)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ✅
 - [Construct Binary Tree from Inorder and Postorder Traversal (#106)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ℹ️
+- [BST from Sorted Array (#108)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+- [Balanced Binary Tree (#110)](https://leetcode.com/problems/balanced-binary-tree/) ✅
 - [Binary Tree Maximum Path Sum (#124)](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ✅
+- [Lowest Common Ancestor of a Binary Search Tree (#235)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [Binary Tree Right Side View (#199)](https://leetcode.com/problems/binary-tree-right-side-view/) ✅
+- [Invert Binary Tree (#226)](https://leetcode.com/problems/invert-binary-tree/) ✅
+- [Count Good Nodes In Binary Tree (#1448)](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [Kth Smallest Element in a BST (#230)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ✅
+- [Lowest Common Ancestors (#236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+- [Inorder Successor in BST II (#285)](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
+- [Inorder Successor in BST II (#510)](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
+- [Diameter of Binary Tree (#543)](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Subtree of Another Tree (#572)](https://leetcode.com/problems/subtree-of-another-tree/) ✅
+- [Merge Trees (#617)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
+- [Search BST (#700)](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+- [Insert in BST (#701)](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
+- [Max Level Sum of a BT (#1161)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
+- [Create Binary Tree from Description (#2196)](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/)
 - [Serialize and Deserialize Binary Tree (#297)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [Flip Equivalent Binary Trees (#951)](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
+- [Minimum Absolute Difference (#530)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
 
 ## Trie
 
@@ -103,6 +163,8 @@ https://leetcode.com/u/smrita_pokharel/
 - [Task Scheduler (#621)](https://leetcode.com/problems/task-scheduler/)
 - [Design Twitter (#355)](https://leetcode.com/problems/design-twitter/)
 - [Find Median from Data Stream (#295)](https://leetcode.com/problems/find-median-from-data-stream/) ✅
+- [Top K Frequent Elements (#347)](https://leetcode.com/problems/top-k-frequent-elements/) ✅
+  - [LC347_TopKFrequentElements.java](LeetCode/src/heap/LC347_TopKFrequentElements.java)
 
 ## Heap - Intervals
 
@@ -115,8 +177,10 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Heap - Greedy
 
-- [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/)
-- [Jump Game (#55)](https://leetcode.com/problems/jump-game/)
+- [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/)  
+  - [LC53_MaxSumSubArray.java](LeetCode/src/dynamicprogramming/kadanealgo/LC53_MaxSumSubArray.java)✅
+- [Jump Game (#55)](https://leetcode.com/problems/jump-game/) 
+  - [LC55_JumpGame.java](LeetCode/src/dynamicprogramming/LC55_JumpGame.java)
 - [Jump Game II (#45)](https://leetcode.com/problems/jump-game-ii/)
 - [Gas Station (#134)](https://leetcode.com/problems/gas-station/)
 - [Hand of Straights (#846)](https://leetcode.com/problems/hand-of-straights/)
@@ -144,6 +208,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Palindrome Partitioning (#131)](https://leetcode.com/problems/palindrome-partitioning/)
 - [Letter Combinations of a Phone Number (#17)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [N Queens (#51)](https://leetcode.com/problems/n-queens/)
+- [Generate Parentheses (#22)](https://leetcode.com/problems/generate-parentheses/) ✅
 
 ## Backtracking + Graph
 
@@ -161,7 +226,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Redundant Connection (#684)](https://leetcode.com/problems/redundant-connection/)
 - [Word Ladder (#127)](https://leetcode.com/problems/word-ladder/)
 
-## 1D DP
+## Dynamic Programming
 
 - [Climbing Stairs (#70)](https://leetcode.com/problems/climbing-stairs/) ✅
 - [Min Cost Climbing Stairs (#746)](https://leetcode.com/problems/min-cost-climbing-stairs/) ✅
@@ -170,22 +235,19 @@ https://leetcode.com/u/smrita_pokharel/
 - [Longest Palindromic Substring (#5)](https://leetcode.com/problems/longest-palindromic-substring/) ✅
 - [Palindromic Substrings (#647)](https://leetcode.com/problems/palindromic-substrings/) ✅
 - [Decode Ways (#91)](https://leetcode.com/problems/decode-ways/)
-- [Coin Change (#322)](https://leetcode.com/problems/coin-change/) ✅
 - [Maximum Product Subarray (#152)](https://leetcode.com/problems/maximum-product-subarray/) ℹ️
 - [Word Break (#139)](https://leetcode.com/problems/word-break/) ℹ️
 - [Longest Increasing Subsequence (#300)](https://leetcode.com/problems/longest-increasing-subsequence/) ℹ️
 - [Partition Equal Subset Sum (#416)](https://leetcode.com/problems/partition-equal-subset-sum/) ✅
-
-## 2D DP
-
 - [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)✅
 - [Longest Common Subsequence (#1143)](https://leetcode.com/problems/longest-common-subsequence/)✅
-- [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)
-- [Target Sum (#494)](https://leetcode.com/problems/target-sum/)
+- [Coin Change (#322)](https://leetcode.com/problems/coin-change/description/)✅
+- [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)✅
+- [Target Sum (#494)](https://leetcode.com/problems/target-sum/)ℹ️
 - [Interleaving String (#97)](https://leetcode.com/problems/interleaving-string/)
-- [Longest Increasing Path in a Matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
-- [Distinct Subsequences (#115)](https://leetcode.com/problems/distinct-subsequences/)
-- [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)
+- [Longest Increasing Path in a Matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)✅
+- [Distinct Subsequences (#115)](https://leetcode.com/problems/distinct-subsequences/)✅
+- [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)✅
 - [Burst Balloons (#312)](https://leetcode.com/problems/burst-balloons/)
 - [Regular Expression Matching (#10)](https://leetcode.com/problems/regular-expression-matching/)
 
@@ -198,21 +260,18 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Bit Manipulation
 
-- [Single Number (#136)](https://leetcode.com/problems/single-number/)
-- [Number of 1 Bits (#191)](https://leetcode.com/problems/number-of-1-bits/)
-- [Counting Bits (#338)](https://leetcode.com/problems/counting-bits/)
-- [Reverse Bits (#190)](https://leetcode.com/problems/reverse-bits/)
-- [Missing Number (#268)](https://leetcode.com/problems/missing-number/)
-- [Sum of Two Integers (#371)](https://leetcode.com/problems/sum-of-two-integers/)
-- [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/)
+- [Single Number (#136)](https://leetcode.com/problems/single-number/)✅
+- [Number of 1 Bits (#191)](https://leetcode.com/problems/number-of-1-bits/)✅
+- [Counting Bits (#338)](https://leetcode.com/problems/counting-bits/)✅
+- [Missing Number (#268)](https://leetcode.com/problems/missing-number/)✅
+- [Sum of Two Integers (#371)](https://leetcode.com/problems/sum-of-two-integers/)✅
 
 ## Math & Geometry
 
-- [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) ✅
-- [Spiral Matrix (#54)](https://leetcode.com/problems/spiral-matrix/)
-- [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)
-- [Happy Number (#202)](https://leetcode.com/problems/happy-number/)
-- [Plus One (#66)](https://leetcode.com/problems/plus-one/)
-- [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)
+- [Happy Number (#202)](https://leetcode.com/problems/happy-number/)✅
+- [Plus One (#66)](https://leetcode.com/problems/plus-one/)✅
+- [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)✅
 - [Multiply Strings (#43)](https://leetcode.com/problems/multiply-strings/)
 - [Detect Squares (#2013)](https://leetcode.com/problems/detect-squares/)
+
+

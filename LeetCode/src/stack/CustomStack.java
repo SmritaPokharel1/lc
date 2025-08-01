@@ -2,6 +2,9 @@ package stack;
 
 import java.util.Arrays;
 
+/**
+ * https://leetcode.com/problems/min-stack/description/
+ */
 public class CustomStack {
 
     private int[] stack;
