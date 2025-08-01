@@ -8,7 +8,7 @@ package matrix;
  * https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=matrix
  *
  */
-public class LC48_RotateMatrix {
+public class LC48_RotateImage {
 
     public void rotate(int[][] matrix) {
 
