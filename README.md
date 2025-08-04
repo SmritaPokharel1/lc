@@ -29,7 +29,8 @@ https://leetcode.com/u/smrita_pokharel/
 
 - [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅
 - [Two Sum II - Input Array Is Sorted (#167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✅
-- [3Sum (#15)](https://leetcode.com/problems/3sum/)
+- [3Sum (#15)](https://leetcode.com/problems/3sum/)✅
+  - [LC15_3Sum.java](LeetCode/src/arrays/LC15_3Sum.java)
 - [Container With Most Water (#11)](https://leetcode.com/problems/container-with-most-water/) ✅
 - [Trapping Rain Water (#42)](https://leetcode.com/problems/trapping-rain-water/)
 
