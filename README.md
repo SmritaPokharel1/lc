@@ -19,7 +19,8 @@ https://leetcode.com/u/smrita_pokharel/
 - [Encode and Decode Strings (#271)](https://leetcode.com/problems/encode-and-decode-strings/)
 - [Product of Array Except Self (#238)](https://leetcode.com/problems/product-of-array-except-self/) ✅
   - [LC238_ProductOfArrayExceptSelf.java](LeetCode/src/arrays/LC238_ProductOfArrayExceptSelf.java)
-- [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/) ✅
+  - [LC128_LongestConsecutiveSequence.java](LeetCode/src/arrays/LC128_LongestConsecutiveSequence.java)
 - [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)✅
   - [LC4_MedianOfTwoSortedArrays.java](LeetCode/src/arrays/LC4_MedianOfTwoSortedArrays.java)
 
