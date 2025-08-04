@@ -28,7 +28,9 @@ https://leetcode.com/u/smrita_pokharel/
 ## Two Pointer
 
 - [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅
+  - [LC125_Palindrome.java](LeetCode/src/string/LC125_Palindrome.java)
 - [Two Sum II - Input Array Is Sorted (#167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✅
+  - [LC167_TwoSumOnSortedArray.java](LeetCode/src/arrays/LC167_TwoSumOnSortedArray.java)
 - [3Sum (#15)](https://leetcode.com/problems/3sum/)✅
   - [LC15_3Sum.java](LeetCode/src/arrays/LC15_3Sum.java)
 - [Container With Most Water (#11)](https://leetcode.com/problems/container-with-most-water/) ✅
