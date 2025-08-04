@@ -86,7 +86,7 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC34_FirstAndLastPositionOfSortedArray.java](LeetCode/src/binarysearch/LC34_FirstAndLastPositionOfSortedArray.java)
 - [Search in Rotated Sorted Array (#33)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Time Based Key-Value Store (#981)](https://leetcode.com/problems/time-based-key-value-store/)
-- [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)✅
 - [Koko Eating Bananas (#875)](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Sliding Window
