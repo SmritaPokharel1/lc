@@ -20,6 +20,9 @@ https://leetcode.com/u/smrita_pokharel/
 - [Product of Array Except Self (#238)](https://leetcode.com/problems/product-of-array-except-self/) ✅
   - [LC238_ProductOfArrayExceptSelf.java](LeetCode/src/arrays/LC238_ProductOfArrayExceptSelf.java)
 - [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)✅
+  - [LC4_MedianOfTwoSortedArrays.java](LeetCode/src/arrays/LC4_MedianOfTwoSortedArrays.java)
+
 
 ## Two Pointer
 
@@ -86,7 +89,6 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC34_FirstAndLastPositionOfSortedArray.java](LeetCode/src/binarysearch/LC34_FirstAndLastPositionOfSortedArray.java)
 - [Search in Rotated Sorted Array (#33)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Time Based Key-Value Store (#981)](https://leetcode.com/problems/time-based-key-value-store/)
-- [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)✅
 - [Koko Eating Bananas (#875)](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Sliding Window
