@@ -143,13 +143,17 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC106_BTFromPostorderAndInorder.java](LeetCode/src/trees/LC106_BTFromPostorderAndInorder.java)
 - [BST from Sorted Array (#108)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)✨
   - [LC108_BSTFromSortedArray.java](LeetCode/src/trees/LC108_BSTFromSortedArray.java)
-- [Balanced Binary Tree (#110)](https://leetcode.com/problems/balanced-binary-tree/) ✅)✨
+- [Balanced Binary Tree (#110)](https://leetcode.com/problems/balanced-binary-tree/) ✅✨
   - [LC110_BalancedTree.java](LeetCode/src/trees/LC110_BalancedTree.java)
-- [Binary Tree Maximum Path Sum (#124)](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ✅
+- [Binary Tree Maximum Path Sum (#124)](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ✅✨
+  - [LC124_BTMaximumPathSum.java](LeetCode/src/trees/LC124_BTMaximumPathSum.java)
 - [Lowest Common Ancestor of a Binary Search Tree (#235)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [Binary Tree Right Side View (#199)](https://leetcode.com/problems/binary-tree-right-side-view/) ✅
-- [Invert Binary Tree (#226)](https://leetcode.com/problems/invert-binary-tree/) ✅
-- [Count Good Nodes In Binary Tree (#1448)](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [Binary Tree Right Side View (#199)](https://leetcode.com/problems/binary-tree-right-side-view/) ✅✨
+  - [LC199_BTRightSideView.java](LeetCode/src/trees/LC199_BTRightSideView.java)
+- [Invert Binary Tree (#226)](https://leetcode.com/problems/invert-binary-tree/) ✅✨
+  - [LC226_InvertBT.java](LeetCode/src/trees/LC226_InvertBT.java)
+- [Count Good Nodes In Binary Tree (#1448)](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)✨
+  - [LC1448_CountGoodNodesInBinaryTree.java](LeetCode/src/trees/LC1448_CountGoodNodesInBinaryTree.java)
 - [Kth Smallest Element in a BST (#230)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ✅
 - [Lowest Common Ancestors (#236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 - [Inorder Successor in BST II (#285)](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
