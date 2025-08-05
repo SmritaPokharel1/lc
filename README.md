@@ -121,9 +121,12 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Trees
 
-- [Inorder traversal in BST (#94)](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+- [Inorder traversal in BST (#94)](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) ✨
+  - [LC94_InorderTraversalOfBST.java](LeetCode/src/trees/LC94_InorderTraversalOfBST.java)
 - [Unique BST (#96)](https://leetcode.com/problems/unique-binary-search-trees/description/)
-- [Validate Binary Search Tree (#98)](https://leetcode.com/problems/validate-binary-search-tree/)
+  - [LC96_UniqueBST.java](LeetCode/src/trees/LC96_UniqueBST.java)
+- [Validate Binary Search Tree (#98)](https://leetcode.com/problems/validate-binary-search-tree/) ✨
+  - [LC98_ValidBST.java](LeetCode/src/trees/LC98_ValidBST.java)
 - [Same Tree (#100)](https://leetcode.com/problems/same-tree/) ✅
 - [Symmetric Tree (#101)](https://leetcode.com/problems/symmetric-tree/description/)
 - [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) ✅
