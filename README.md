@@ -154,7 +154,8 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC226_InvertBT.java](LeetCode/src/trees/LC226_InvertBT.java)
 - [Count Good Nodes In Binary Tree (#1448)](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)✨
   - [LC1448_CountGoodNodesInBinaryTree.java](LeetCode/src/trees/LC1448_CountGoodNodesInBinaryTree.java)
-- [Kth Smallest Element in a BST (#230)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ✅
+- [Kth Smallest Element in a BST (#230)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ✅✨
+  - [LC230_KthSmallestElement.java](LeetCode/src/trees/LC230_KthSmallestElement.java)
 - [Lowest Common Ancestors (#236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 - [Inorder Successor in BST II (#285)](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
 - [Inorder Successor in BST II (#510)](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
