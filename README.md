@@ -147,10 +147,12 @@ https://leetcode.com/u/smrita_pokharel/
 - [Merge Trees (#617)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
 - [Search BST (#700)](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
 - [Insert in BST (#701)](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
-- [Max Level Sum of a BT (#1161)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
+- [Max Level Sum of a BT (#1161)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) ✨
+  - [LC1161_MaxLevelSum.java](LeetCode/src/trees/LC1161_MaxLevelSum.java)
 - [Create Binary Tree from Description (#2196)](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/)
 - [Serialize and Deserialize Binary Tree (#297)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- [Flip Equivalent Binary Trees (#951)](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
+- [Flip Equivalent Binary Trees (#951)](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) ✨
+  - [LC951_FlipEquivalent.java](LeetCode/src/trees/LC951_FlipEquivalent.java)
 - [Minimum Absolute Difference (#530)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
 
 ## Trie

@@ -7,17 +7,13 @@ public class LC1161_MaxLevelSum {
 
     public int maxLevelSum(TreeNode root) {
 
-        Queue<TreeNode> queue = new LinkedList();
-
-        if(root==null) return 0;
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
 
         queue.add(root);
 
-        int maxSum = Integer.MIN_VALUE;
-
-        int minLevel = Integer.MAX_VALUE;
-
-        int level = 1;
+        int max  = Integer.MIN_VALUE;
+        int minLevel = 0;
+        int level = 0;
 
         while(!queue.isEmpty()){
 
@@ -25,9 +21,10 @@ public class LC1161_MaxLevelSum {
 
             int sum = 0;
 
-            while(size >0){
+            while(size > 0 ){
 
                 TreeNode node = queue.remove();
+
                 sum += node.val;
 
                 if(node.left != null) queue.add(node.left);
@@ -36,13 +33,12 @@ public class LC1161_MaxLevelSum {
                 size --;
             }
 
-            if(maxSum < sum){
+            level ++;
 
-                maxSum = sum;
+            if(max < sum){
+                max = sum;
                 minLevel = level;
             }
-
-            level++;
         }
 
         return minLevel;
