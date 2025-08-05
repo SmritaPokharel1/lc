@@ -127,15 +127,24 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC96_UniqueBST.java](LeetCode/src/trees/LC96_UniqueBST.java)
 - [Validate Binary Search Tree (#98)](https://leetcode.com/problems/validate-binary-search-tree/) ✨
   - [LC98_ValidBST.java](LeetCode/src/trees/LC98_ValidBST.java)
-- [Same Tree (#100)](https://leetcode.com/problems/same-tree/) ✅
-- [Symmetric Tree (#101)](https://leetcode.com/problems/symmetric-tree/description/)
-- [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) ✅
-- [Binary Tree Zigzac Level Order Traversal (#103)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) ✅
-- [Maximum Depth of Binary Tree (#104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ✅
-- [Construct Binary Tree from Preorder and Inorder Traversal (#105)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ✅
-- [Construct Binary Tree from Inorder and Postorder Traversal (#106)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ℹ️
-- [BST from Sorted Array (#108)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
-- [Balanced Binary Tree (#110)](https://leetcode.com/problems/balanced-binary-tree/) ✅
+- [Same Tree (#100)](https://leetcode.com/problems/same-tree/) ✅ ✨
+  - [LC100_SameTree.java](LeetCode/src/trees/LC100_SameTree.java)
+- [Symmetric Tree (#101)](https://leetcode.com/problems/symmetric-tree/description/)✨
+  - [LC101_SymmetricTree.java](LeetCode/src/trees/LC101_SymmetricTree.java)
+- [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) ✅✨
+  - [LC102_LevelOrderBST.java](LeetCode/src/trees/LC102_LevelOrderBST.java)
+- [Binary Tree Zigzac Level Order Traversal (#103)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) ✅✨
+  - [LC103_BTZigZacLevelOrderBFS.java](LeetCode/src/trees/LC103_BTZigZacLevelOrderBFS.java)
+- [Maximum Depth of Binary Tree (#104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ✅✨
+  - [LC104_MaxDepth.java](LeetCode/src/trees/LC104_MaxDepth.java)
+- [Construct Binary Tree from Preorder and Inorder Traversal (#105)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ✅✨
+  - [LC105_BTFromPreorderAndInOrder.java](LeetCode/src/trees/LC105_BTFromPreorderAndInOrder.java)
+- [Construct Binary Tree from Inorder and Postorder Traversal (#106)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ℹ️✨
+  - [LC106_BTFromPostorderAndInorder.java](LeetCode/src/trees/LC106_BTFromPostorderAndInorder.java)
+- [BST from Sorted Array (#108)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)✨
+  - [LC108_BSTFromSortedArray.java](LeetCode/src/trees/LC108_BSTFromSortedArray.java)
+- [Balanced Binary Tree (#110)](https://leetcode.com/problems/balanced-binary-tree/) ✅)✨
+  - [LC110_BalancedTree.java](LeetCode/src/trees/LC110_BalancedTree.java)
 - [Binary Tree Maximum Path Sum (#124)](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ✅
 - [Lowest Common Ancestor of a Binary Search Tree (#235)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [Binary Tree Right Side View (#199)](https://leetcode.com/problems/binary-tree-right-side-view/) ✅

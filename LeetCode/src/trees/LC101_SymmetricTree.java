@@ -1,5 +1,10 @@
 package trees;
 
+/**
+ * Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+ *
+ * https://leetcode.com/problems/symmetric-tree/description/
+ */
 public class LC101_SymmetricTree {
 
     public boolean isSymmetric(TreeNode root) {
