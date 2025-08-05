@@ -153,7 +153,8 @@ https://leetcode.com/u/smrita_pokharel/
 - [Serialize and Deserialize Binary Tree (#297)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [Flip Equivalent Binary Trees (#951)](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) ✨
   - [LC951_FlipEquivalent.java](LeetCode/src/trees/LC951_FlipEquivalent.java)
-- [Minimum Absolute Difference (#530)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
+- [Minimum Absolute Difference (#530)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) ✨
+  - [LC530_MinAbsoluteDiff.java](LeetCode/src/trees/LC530_MinAbsoluteDiff.java)
 
 ## Trie
 
