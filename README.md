@@ -27,8 +27,6 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Two Pointer
 
-- [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅
-  - [LC125_Palindrome.java](LeetCode/src/string/LC125_Palindrome.java)
 - [Two Sum II - Input Array Is Sorted (#167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✅
   - [LC167_TwoSumOnSortedArray.java](LeetCode/src/arrays/LC167_TwoSumOnSortedArray.java)
 - [3Sum (#15)](https://leetcode.com/problems/3sum/)✅
@@ -39,10 +37,12 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Strings
 
-- [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/description/)
 - [Longest Common Prefix (#14)](https://leetcode.com/problems/longest-common-prefix/description/)
-- [Group Anagram together (#49)](https://leetcode.com/problems/group-anagrams/description/)
-- [Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/)
+  - [LC14_LongestCommonPrefix.java](LeetCode/src/string/LC14_LongestCommonPrefix.java)
+- [Group Anagram together (#49)](https://leetcode.com/problems/group-anagrams/description/) ✅
+  - [LC49_GroupAnagramTogether.java](LeetCode/src/arrays/LC49_GroupAnagramTogether.java)
+- [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅
+  - [LC125_Palindrome.java](LeetCode/src/string/LC125_Palindrome.java)
 - [Isomorphic Strings (#205)](https://leetcode.com/problems/isomorphic-strings/description/)
 - [Ransom Note (#383)](https://leetcode.com/problems/ransom-note/)
 - [First Unique Character (#87)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
@@ -97,7 +97,6 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Sliding Window
 
-- [Best Time to Buy and Sell Stock (#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ✅
 - [Longest Substring Without Repeating Characters (#3)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ✅
 - [Longest Repeating Character Replacement (#424)](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Permutation in String (#567)](https://leetcode.com/problems/permutation-in-string/)
@@ -183,11 +182,6 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Heap - Greedy
 
-- [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/)  
-  - [LC53_MaxSumSubArray.java](LeetCode/src/dynamicprogramming/kadanealgo/LC53_MaxSumSubArray.java)✅
-- [Jump Game (#55)](https://leetcode.com/problems/jump-game/) 
-  - [LC55_JumpGame.java](LeetCode/src/dynamicprogramming/LC55_JumpGame.java)
-- [Jump Game II (#45)](https://leetcode.com/problems/jump-game-ii/)
 - [Gas Station (#134)](https://leetcode.com/problems/gas-station/)
 - [Hand of Straights (#846)](https://leetcode.com/problems/hand-of-straights/)
 - [Merge Triplets to Form Target Triplet (#1899)](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)
@@ -256,6 +250,13 @@ https://leetcode.com/u/smrita_pokharel/
 - [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)✅
 - [Burst Balloons (#312)](https://leetcode.com/problems/burst-balloons/)
 - [Regular Expression Matching (#10)](https://leetcode.com/problems/regular-expression-matching/)
+- [Jump Game (#55)](https://leetcode.com/problems/jump-game/)
+  - [LC55_JumpGame.java](LeetCode/src/dynamicprogramming/LC55_JumpGame.java)
+- [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/)
+  - [LC53_MaxSumSubArray.java](LeetCode/src/dynamicprogramming/kadanealgo/LC53_MaxSumSubArray.java)✅
+- [Jump Game II (#45)](https://leetcode.com/problems/jump-game-ii/)✅
+  - [LC45_JumpGameII.java](LeetCode/src/dynamicprogramming/LC45_JumpGameII.java)
+
 
 ## Stocks
 - [Best time to buy and sell stocks(#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)✅
@@ -274,6 +275,7 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Math & Geometry
 
+- [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/description/)
 - [Happy Number (#202)](https://leetcode.com/problems/happy-number/)✅
 - [Plus One (#66)](https://leetcode.com/problems/plus-one/)✅
 - [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)✅
