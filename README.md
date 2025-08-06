@@ -165,8 +165,10 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC572_IsSubtree.java](LeetCode/src/trees/LC572_IsSubtree.java)
 - [Merge Trees (#617)](https://leetcode.com/problems/merge-two-binary-trees/description/)⭐
   - [LC617_MergeTrees.java](LeetCode/src/trees/LC617_MergeTrees.java)
-- [Search BST (#700)](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
-- [Insert in BST (#701)](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
+- [Search BST (#700)](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)⭐
+  - [LC700_SearchBST.java](LeetCode/src/trees/LC700_SearchBST.java)
+- [Insert in BST (#701)](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)⭐
+  - [LC701_InsertIntoBST.java](LeetCode/src/trees/LC701_InsertIntoBST.java)
 - [Max Level Sum of a BT (#1161)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)⭐
   - [LC1161_MaxLevelSum.java](LeetCode/src/trees/LC1161_MaxLevelSum.java)
 - [Create Binary Tree from Description (#2196)](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/)
