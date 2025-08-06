@@ -197,8 +197,9 @@ https://leetcode.com/u/smrita_pokharel/
 - [Task Scheduler (#621)](https://leetcode.com/problems/task-scheduler/)😶‍🌫️
   - [LC621_TaskScheduler.java](LeetCode/src/heap/LC621_TaskScheduler.java)
 - [Design Twitter (#355)](https://leetcode.com/problems/design-twitter/)
-- [Find Median from Data Stream (#295)](https://leetcode.com/problems/find-median-from-data-stream/) ✅
-- [Top K Frequent Elements (#347)](https://leetcode.com/problems/top-k-frequent-elements/) ✅
+- [Find Median from Data Stream (#295)](https://leetcode.com/problems/find-median-from-data-stream/) ✅⭐
+  - [LC295_MedianFromDataStream.java](LeetCode/src/heap/LC295_MedianFromDataStream.java)
+- [Top K Frequent Elements (#347)](https://leetcode.com/problems/top-k-frequent-elements/) ✅⭐
   - [LC347_TopKFrequentElements.java](LeetCode/src/heap/LC347_TopKFrequentElements.java)
 
 ## Heap - Intervals
