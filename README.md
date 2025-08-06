@@ -147,7 +147,8 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC110_BalancedTree.java](LeetCode/src/trees/LC110_BalancedTree.java)
 - [Binary Tree Maximum Path Sum (#124)](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ✅✨
   - [LC124_BTMaximumPathSum.java](LeetCode/src/trees/LC124_BTMaximumPathSum.java)
-- [Lowest Common Ancestor of a Binary Search Tree (#235)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [Lowest Common Ancestor of a Binary Search Tree (#235)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)✨
+  - [LC236_LowestCommonAncestors.java](LeetCode/src/trees/LC236_LowestCommonAncestors.java)
 - [Binary Tree Right Side View (#199)](https://leetcode.com/problems/binary-tree-right-side-view/) ✅✨
   - [LC199_BTRightSideView.java](LeetCode/src/trees/LC199_BTRightSideView.java)
 - [Invert Binary Tree (#226)](https://leetcode.com/problems/invert-binary-tree/) ✅✨
@@ -156,11 +157,12 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC1448_CountGoodNodesInBinaryTree.java](LeetCode/src/trees/LC1448_CountGoodNodesInBinaryTree.java)
 - [Kth Smallest Element in a BST (#230)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ✅✨
   - [LC230_KthSmallestElement.java](LeetCode/src/trees/LC230_KthSmallestElement.java)
-- [Lowest Common Ancestors (#236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 - [Inorder Successor in BST II (#285)](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
 - [Inorder Successor in BST II (#510)](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
-- [Diameter of Binary Tree (#543)](https://leetcode.com/problems/diameter-of-binary-tree/)
-- [Subtree of Another Tree (#572)](https://leetcode.com/problems/subtree-of-another-tree/) ✅
+- [Diameter of Binary Tree (#543)](https://leetcode.com/problems/diameter-of-binary-tree/)✨
+  - [LC543_DiameterOfTree.java](LeetCode/src/trees/LC543_DiameterOfTree.java)
+- [Subtree of Another Tree (#572)](https://leetcode.com/problems/subtree-of-another-tree/) ✅✨
+  - [LC572_IsSubtree.java](LeetCode/src/trees/LC572_IsSubtree.java)
 - [Merge Trees (#617)](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
 - [Search BST (#700)](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
 - [Insert in BST (#701)](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
