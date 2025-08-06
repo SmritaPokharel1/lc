@@ -211,15 +211,16 @@ https://leetcode.com/u/smrita_pokharel/
 - [Meeting Rooms II (#253)](https://leetcode.com/problems/meeting-rooms-ii/) ✅
 - [Minimum Interval to Include Each Query (#1851)](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
-## Heap - Greedy
+## Greedy
 
 - [Gas Station (#134)](https://leetcode.com/problems/gas-station/)
 - [Hand of Straights (#846)](https://leetcode.com/problems/hand-of-straights/)
 - [Merge Triplets to Form Target Triplet (#1899)](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)
+  - [LC1899_MergeTriplets.java](LeetCode/src/greedy/LC1899_MergeTriplets.java)
 - [Partition Labels (#763)](https://leetcode.com/problems/partition-labels/)
 - [Valid Parenthesis String (#678)](https://leetcode.com/problems/valid-parenthesis-string/)
 
-## Heap + Graph
+## Graph
 
 - [Network Delay Time (#743)](https://leetcode.com/problems/network-delay-time/)
 - [Reconstruct Itinerary (#332)](https://leetcode.com/problems/reconstruct-itinerary/)
