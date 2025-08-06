@@ -186,10 +186,14 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Heap
 
-- [Kth Largest Element in a Stream (#703)](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ✅
-- [Last Stone Weight (#1046)](https://leetcode.com/problems/last-stone-weight/) ✅
-- [K Closest Points to Origin (#973)](https://leetcode.com/problems/k-closest-points-to-origin/)
-- [Kth Largest Element in an Array (#215)](https://leetcode.com/problems/kth-largest-element-in-an-array/) ✅
+- [Kth Largest Element in a Stream (#703)](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ✅⭐
+  - [LC703_KthLargestNumInStream.java](LeetCode/src/heap/LC703_KthLargestNumInStream.java)
+- [Last Stone Weight (#1046)](https://leetcode.com/problems/last-stone-weight/) ✅⭐
+  - [LC1046_LastStoneWeight.java](LeetCode/src/heap/LC1046_LastStoneWeight.java)
+- [K Closest Points to Origin (#973)](https://leetcode.com/problems/k-closest-points-to-origin/)⭐
+  - [LC973_KClosestPointToTheOrigin.java](LeetCode/src/heap/LC973_KClosestPointToTheOrigin.java)
+- [Kth Largest Element in an Array (#215)](https://leetcode.com/problems/kth-largest-element-in-an-array/) ✅⭐
+  - [LC215_FindKLargestElement.java](LeetCode/src/heap/LC215_FindKLargestElement.java)
 - [Task Scheduler (#621)](https://leetcode.com/problems/task-scheduler/)
 - [Design Twitter (#355)](https://leetcode.com/problems/design-twitter/)
 - [Find Median from Data Stream (#295)](https://leetcode.com/problems/find-median-from-data-stream/) ✅

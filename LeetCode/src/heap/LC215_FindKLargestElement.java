@@ -1,5 +1,6 @@
 package heap;
 
+import java.util.Arrays;
 import java.util.PriorityQueue;
 
 /**
@@ -25,6 +26,15 @@ import java.util.PriorityQueue;
 public class LC215_FindKLargestElement {
 
     public int findKthLargest(int[] nums, int k) {
+
+        Arrays.sort(nums);
+
+        int targetIndex = nums.length - k;
+
+        return nums[targetIndex];
+    }
+
+    public int findKthLargestUsingHeap(int[] nums, int k) {
 
         PriorityQueue<Integer> heap = new PriorityQueue<Integer>();
 
