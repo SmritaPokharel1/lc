@@ -215,14 +215,15 @@ https://leetcode.com/u/smrita_pokharel/
 
 - [Gas Station (#134)](https://leetcode.com/problems/gas-station/)
 - [Hand of Straights (#846)](https://leetcode.com/problems/hand-of-straights/)
-- [Merge Triplets to Form Target Triplet (#1899)](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)
+- [Merge Triplets to Form Target Triplet (#1899)](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)⭐
   - [LC1899_MergeTriplets.java](LeetCode/src/greedy/LC1899_MergeTriplets.java)
 - [Partition Labels (#763)](https://leetcode.com/problems/partition-labels/)
 - [Valid Parenthesis String (#678)](https://leetcode.com/problems/valid-parenthesis-string/)
 
 ## Graph
 
-- [Network Delay Time (#743)](https://leetcode.com/problems/network-delay-time/)
+- [Network Delay Time (#743)](https://leetcode.com/problems/network-delay-time/) 😶‍🌫️
+  - [LC743_NetworkDelayTime.java](LeetCode/src/graph/LC743_NetworkDelayTime.java) 
 - [Reconstruct Itinerary (#332)](https://leetcode.com/problems/reconstruct-itinerary/)
 - [Min Cost to Connect All Points (#1584)](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 - [Swim in Rising Water (#778)](https://leetcode.com/problems/swim-in-rising-water/)
