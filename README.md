@@ -99,7 +99,8 @@ https://leetcode.com/u/smrita_pokharel/
 
 - [Longest Substring Without Repeating Characters (#3)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ✅
 - [Longest Repeating Character Replacement (#424)](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [Permutation in String (#567)](https://leetcode.com/problems/permutation-in-string/)
+- [Permutation in String (#567)](https://leetcode.com/problems/permutation-in-string/)😶‍🌫️
+  - [LC567_PermutationInString.java](LeetCode/src/string/LC567_PermutationInString.java)
 - [Minimum Window Substring (#76)](https://leetcode.com/problems/minimum-window-substring/)
 - [Sliding Window Maximum (#239)](https://leetcode.com/problems/sliding-window-maximum/) ✅
 
