@@ -101,7 +101,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Longest Repeating Character Replacement (#424)](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Permutation in String (#567)](https://leetcode.com/problems/permutation-in-string/)😶‍🌫️
   - [LC567_PermutationInString.java](LeetCode/src/string/LC567_PermutationInString.java)
-- [Minimum Window Substring (#76)](https://leetcode.com/problems/minimum-window-substring/)
+- [Minimum Window Substring (#76)](https://leetcode.com/problems/minimum-window-substring/)😶‍🌫️
 - [Sliding Window Maximum (#239)](https://leetcode.com/problems/sliding-window-maximum/) ✅
 
 
@@ -297,9 +297,7 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC53_MaxSumSubArray.java](LeetCode/src/dynamicprogramming/kadanealgo/LC53_MaxSumSubArray.java)✅
 - [Jump Game II (#45)](https://leetcode.com/problems/jump-game-ii/)✅
   - [LC45_JumpGameII.java](LeetCode/src/dynamicprogramming/LC45_JumpGameII.java)
-
-
-## Stocks
+### Stocks
 - [Best time to buy and sell stocks(#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)✅
 - [Best time to buy and sell stocks II (#122)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)✅
   - [LC122_BestTimeToBuyAndSellStockII.java](LeetCode/src/dynamicprogramming/stock/LC122_BestTimeToBuyAndSellStockII.java)
@@ -310,13 +308,19 @@ https://leetcode.com/u/smrita_pokharel/
 - [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)✅
   - [LC309_BestTimeToBuyStockWithCooldown.java](LeetCode/src/dynamicprogramming/stock/LC309_BestTimeToBuyStockWithCooldown.java)
 
+
 ## Bit Manipulation
 
-- [Single Number (#136)](https://leetcode.com/problems/single-number/)✅
-- [Number of 1 Bits (#191)](https://leetcode.com/problems/number-of-1-bits/)✅
-- [Counting Bits (#338)](https://leetcode.com/problems/counting-bits/)✅
-- [Missing Number (#268)](https://leetcode.com/problems/missing-number/)✅
-- [Sum of Two Integers (#371)](https://leetcode.com/problems/sum-of-two-integers/)✅
+- [Single Number (#136)](https://leetcode.com/problems/single-number/)✅⭐
+  - [LC136_SingleNumber.java](LeetCode/src/bitmanipulation/LC136_SingleNumber.java)
+- [Number of 1 Bits (#191)](https://leetcode.com/problems/number-of-1-bits/)✅⭐
+  - [LC191_NoOfBits.java](LeetCode/src/bitmanipulation/LC191_NoOfBits.java)
+- [Counting Bits (#338)](https://leetcode.com/problems/counting-bits/)✅⭐
+  - [LC338_CountBits.java](LeetCode/src/bitmanipulation/LC338_CountBits.java)
+- [Missing Number (#268)](https://leetcode.com/problems/missing-number/)✅⭐
+  - [LC268_MissingNumber.java](LeetCode/src/bitmanipulation/LC268_MissingNumber.java)
+- [Sum of Two Integers (#371)](https://leetcode.com/problems/sum-of-two-integers/)✅⭐
+  - [LC371_SumOfTwoIntegers.java](LeetCode/src/bitmanipulation/LC371_SumOfTwoIntegers.java)
 
 ## Math & Geometry
 
