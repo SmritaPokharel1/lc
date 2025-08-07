@@ -233,12 +233,18 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Backtracking
 
-- [Subsets (#78)](https://leetcode.com/problems/subsets/) ✅
-- [Combination Sum (#39)](https://leetcode.com/problems/combination-sum/) ✅
-- [Combination Sum II (#40)](https://leetcode.com/problems/combination-sum-ii/) ℹ️
-- [Permutations (#46)](https://leetcode.com/problems/permutations/) ✅
-- [Subsets II (#90)](https://leetcode.com/problems/subsets-ii/) ℹ️
+- [Subsets (#78)](https://leetcode.com/problems/subsets/) ✅⭐
+  - [LC78_Subsets.java](LeetCode/src/backtracking/LC78_Subsets.java)
+- [Combination Sum (#39)](https://leetcode.com/problems/combination-sum/) ✅⭐
+  - [LC39_CombinationSum.java](LeetCode/src/backtracking/LC39_CombinationSum.java)
+- [Combination Sum II (#40)](https://leetcode.com/problems/combination-sum-ii/) ℹ️⭐
+  - [LC40_CombinationSumII.java](LeetCode/src/backtracking/LC40_CombinationSumII.java)
+- [Permutations (#46)](https://leetcode.com/problems/permutations/) ✅⭐
+  - [LC46_Permutation.java](LeetCode/src/backtracking/LC46_Permutation.java)
+- [Subsets II (#90)](https://leetcode.com/problems/subsets-ii/) ℹ️⭐
+  - [LC90_SubsetsII.java](LeetCode/src/backtracking/LC90_SubsetsII.java)
 - [Word Search (#79)](https://leetcode.com/problems/word-search/) ✅
+  - [LC79_WordSearch.java](LeetCode/src/backtracking/LC79_WordSearch.java)
 - [Palindrome Partitioning (#131)](https://leetcode.com/problems/palindrome-partitioning/)
 - [Letter Combinations of a Phone Number (#17)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [N Queens (#51)](https://leetcode.com/problems/n-queens/)
