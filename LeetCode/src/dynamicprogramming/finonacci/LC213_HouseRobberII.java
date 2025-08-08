@@ -31,7 +31,7 @@ import java.util.Arrays;
  */
 public class LC213_HouseRobberII {
 
-    public int rob(int[] nums) {
+    public int robMemoized(int[] nums) {
 
         if (nums.length == 1) return nums[0];
 
@@ -43,23 +43,60 @@ public class LC213_HouseRobberII {
         Arrays.fill(memo1, -1);
         Arrays.fill(memo2, -1);
 
-        int includeFirst = rob(nums, 0, n-2, memo1);
-        int includeLast = rob(nums, 1, n-1, memo2);
+        int includeFirst = robMemoized(nums, 0, n-2, memo1);
+        int includeLast = robMemoized(nums, 1, n-1, memo2);
 
         return Math.max(includeFirst, includeLast);
     }
 
-    public int rob(int[] nums, int index, int end, int[] memo){
+    public int robMemoized(int[] nums, int index, int end, int[] memo){
 
         if(index > end) return 0;
 
         if(memo[index]!= -1) return memo[index];
 
-        int take = nums[index] + rob(nums, index +2, end, memo);
-        int skip = rob(nums, index +1, end, memo);
+        int take = nums[index] + robMemoized(nums, index +2, end, memo);
+        int skip = robMemoized(nums, index +1, end, memo);
 
         memo[index] = Math.max(take,skip);
 
         return memo[index];
+    }
+
+    public int robBottomup(int[] nums) {
+
+        if (nums.length == 1) return nums[0];
+
+        int[] nums1 = new int[nums.length - 1];
+        int[] nums2 = new int[nums.length - 1];
+
+        for(int i = 0; i < nums.length-1; i++){
+            nums1[i] = nums[i];
+            nums2[i] = nums[i+1];
+        }
+
+        int includeFirst = bottomup(nums1);
+        int includeLast = bottomup(nums2);
+
+        return Math.max(includeFirst, includeLast);
+    }
+
+    public int bottomup(int[] nums){
+
+        int n = nums.length;
+        int[] dp = new int[n+2];
+
+        dp[n-1] = nums[n-1];
+
+        for(int i = n-2; i >= 0; i--){
+
+            int take = nums[i] + dp[i+2];
+
+            int skip = dp[i+1];
+
+            dp[i] = Math.max(take, skip);
+        }
+
+        return dp[0];
     }
 }
