@@ -23,6 +23,8 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC128_LongestConsecutiveSequence.java](LeetCode/src/arrays/LC128_LongestConsecutiveSequence.java)
 - [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)✅
   - [LC4_MedianOfTwoSortedArrays.java](LeetCode/src/arrays/LC4_MedianOfTwoSortedArrays.java)
+- [Find the Duplicate Number (#287)](https://leetcode.com/problems/find-the-duplicate-number/) ✅⭐
+  - [LC287_FindDuplicateNumber.java](LeetCode/src/arrays/LC287_FindDuplicateNumber.java)
 
 
 ## Two Pointer
@@ -107,17 +109,24 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Linked List
 
-- [Reverse Linked List (#206)](https://leetcode.com/problems/reverse-linked-list/) ✅
-- [Merge Two Sorted Lists (#21)](https://leetcode.com/problems/merge-two-sorted-lists/) ✅
-- [Linked List Cycle (#141)](https://leetcode.com/problems/linked-list-cycle/) ✅
-- [Linked List Cycle II (#142)](https://leetcode.com/problems/linked-list-cycle-ii/) ✅
-- [Reorder List (#143)](https://leetcode.com/problems/reorder-list/) ✅
-- [Remove Nth Node From End of List (#19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ✅
+- [Reverse Linked List (#206)](https://leetcode.com/problems/reverse-linked-list/) ✅⭐
+  - [LC206_ReverseList.java](LeetCode/src/linkedlist/LC206_ReverseList.java)
+- [Merge Two Sorted Lists (#21)](https://leetcode.com/problems/merge-two-sorted-lists/) ✅⭐
+  - [LC21_MergeTwoSortedLists.java](LeetCode/src/linkedlist/LC21_MergeTwoSortedLists.java)
+- [Linked List Cycle (#141)](https://leetcode.com/problems/linked-list-cycle/) ✅⭐
+  - [LC141_DetectCycle.java](LeetCode/src/linkedlist/LC141_DetectCycle.java)
+- [Linked List Cycle II (#142)](https://leetcode.com/problems/linked-list-cycle-ii/) ✅⭐
+  - [LC142_LinkedListDetectCycleII.java](LeetCode/src/linkedlist/LC142_LinkedListDetectCycleII.java)
+- [Reorder List (#143)](https://leetcode.com/problems/reorder-list/) ✅⭐
+  - [LC143_ReorderList.java](LeetCode/src/linkedlist/LC143_ReorderList.java)
+- [Remove Nth Node From End of List (#19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ✅⭐
+  - [LC19_RemoveNthNodeFromList.java](LeetCode/src/linkedlist/LC19_RemoveNthNodeFromList.java)
 - [Copy List With Random Pointer (#138)](https://leetcode.com/problems/copy-list-with-random-pointer/)
-- [Add Two Numbers (#2)](https://leetcode.com/problems/add-two-numbers/) ✅
-- [Find the Duplicate Number (#287)](https://leetcode.com/problems/find-the-duplicate-number/) ✅
+- [Add Two Numbers (#2)](https://leetcode.com/problems/add-two-numbers/) ✅⭐
+  - [LC2_AddTwoNumbers.java](LeetCode/src/linkedlist/LC2_AddTwoNumbers.java)
 - [LRU Cache (#146)](https://leetcode.com/problems/lru-cache/)
-- [Merge K Sorted Lists (#23)](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Merge K Sorted Lists (#23)](https://leetcode.com/problems/merge-k-sorted-lists/)⭐
+  - [LC23_MergeKSortedList.java](LeetCode/src/linkedlist/LC23_MergeKSortedList.java)
 - [Reverse Nodes in k-Group (#25)](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 ## Trees
@@ -277,8 +286,10 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC198_HouseRobber.java](LeetCode/src/dynamicprogramming/finonacci/LC198_HouseRobber.java)
 - [House Robber II (#213)](https://leetcode.com/problems/house-robber-ii/) ✅⭐
   - [LC213_HouseRobberII.java](LeetCode/src/dynamicprogramming/finonacci/LC213_HouseRobberII.java)
-- [Longest Palindromic Substring (#5)](https://leetcode.com/problems/longest-palindromic-substring/) ✅
-- [Palindromic Substrings (#647)](https://leetcode.com/problems/palindromic-substrings/) ✅
+- [Longest Palindromic Substring (#5)](https://leetcode.com/problems/longest-palindromic-substring/) ✅⭐
+  - [LC5_LongestPalindromicSubstring.java](LeetCode/src/dynamicprogramming/strings/LC5_LongestPalindromicSubstring.java)
+- [Palindromic Substrings (#647)](https://leetcode.com/problems/palindromic-substrings/) ✅⭐
+  - [LC647_PalindromicSubstring.java](LeetCode/src/dynamicprogramming/strings/LC647_PalindromicSubstring.java)
 - [Decode Ways (#91)](https://leetcode.com/problems/decode-ways/)
 - [Maximum Product Subarray (#152)](https://leetcode.com/problems/maximum-product-subarray/) ℹ️
 - [Word Break (#139)](https://leetcode.com/problems/word-break/) ℹ️
