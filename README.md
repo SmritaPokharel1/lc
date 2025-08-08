@@ -269,9 +269,12 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Dynamic Programming
 
-- [Climbing Stairs (#70)](https://leetcode.com/problems/climbing-stairs/) ✅
-- [Min Cost Climbing Stairs (#746)](https://leetcode.com/problems/min-cost-climbing-stairs/) ✅
-- [House Robber (#198)](https://leetcode.com/problems/house-robber/) ✅
+- [Climbing Stairs (#70)](https://leetcode.com/problems/climbing-stairs/) ✅⭐
+  - [LC70_ClimbingStairs.java](LeetCode/src/dynamicprogramming/finonacci/LC70_ClimbingStairs.java)
+- [Min Cost Climbing Stairs (#746)](https://leetcode.com/problems/min-cost-climbing-stairs/) ✅⭐
+  - [LC746_MinCostClimingStairs.java](LeetCode/src/dynamicprogramming/finonacci/LC746_MinCostClimingStairs.java)
+- [House Robber (#198)](https://leetcode.com/problems/house-robber/) ✅⭐
+  - [LC198_HouseRobber.java](LeetCode/src/dynamicprogramming/finonacci/LC198_HouseRobber.java)
 - [House Robber II (#213)](https://leetcode.com/problems/house-robber-ii/) ✅
 - [Longest Palindromic Substring (#5)](https://leetcode.com/problems/longest-palindromic-substring/) ✅
 - [Palindromic Substrings (#647)](https://leetcode.com/problems/palindromic-substrings/) ✅
@@ -324,9 +327,12 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Math & Geometry
 
-- [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/description/)
-- [Happy Number (#202)](https://leetcode.com/problems/happy-number/)✅
-- [Plus One (#66)](https://leetcode.com/problems/plus-one/)✅
+- [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/description/)⭐
+  - [LC7_ReverseInteger.java](LeetCode/src/math/LC7_ReverseInteger.java)
+- [Happy Number (#202)](https://leetcode.com/problems/happy-number/)✅⭐
+  - [LC202_HappyNumber.java](LeetCode/src/math/LC202_HappyNumber.java)
+- [Plus One (#66)](https://leetcode.com/problems/plus-one/)✅⭐
+  - [LC66_PlusOne.java](LeetCode/src/math/LC66_PlusOne.java)
 - [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)✅
 - [Multiply Strings (#43)](https://leetcode.com/problems/multiply-strings/)
 - [Detect Squares (#2013)](https://leetcode.com/problems/detect-squares/)
