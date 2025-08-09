@@ -39,11 +39,11 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Strings
 
-- [Longest Common Prefix (#14)](https://leetcode.com/problems/longest-common-prefix/description/)
+- [Longest Common Prefix (#14)](https://leetcode.com/problems/longest-common-prefix/description/)⭐
   - [LC14_LongestCommonPrefix.java](LeetCode/src/string/LC14_LongestCommonPrefix.java)
-- [Group Anagram together (#49)](https://leetcode.com/problems/group-anagrams/description/) ✅
+- [Group Anagram together (#49)](https://leetcode.com/problems/group-anagrams/description/) ✅⭐
   - [LC49_GroupAnagramTogether.java](LeetCode/src/arrays/LC49_GroupAnagramTogether.java)
-- [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅
+- [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅⭐
   - [LC125_Palindrome.java](LeetCode/src/string/LC125_Palindrome.java)
 - [Isomorphic Strings (#205)](https://leetcode.com/problems/isomorphic-strings/description/)
 - [Ransom Note (#383)](https://leetcode.com/problems/ransom-note/)
@@ -313,7 +313,7 @@ https://leetcode.com/u/smrita_pokharel/
 - [Jump Game II (#45)](https://leetcode.com/problems/jump-game-ii/)✅
   - [LC45_JumpGameII.java](LeetCode/src/dynamicprogramming/LC45_JumpGameII.java)
 ### Stocks
-- [Best time to buy and sell stocks(#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)✅
+- [Best time to buy and sell stocks(#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)✅⭐
 - [Best time to buy and sell stocks II (#122)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)✅
   - [LC122_BestTimeToBuyAndSellStockII.java](LeetCode/src/dynamicprogramming/stock/LC122_BestTimeToBuyAndSellStockII.java)
 - [Best time to buy and sell stocks III (#123)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)✅
@@ -345,7 +345,8 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC202_HappyNumber.java](LeetCode/src/math/LC202_HappyNumber.java)
 - [Plus One (#66)](https://leetcode.com/problems/plus-one/)✅⭐
   - [LC66_PlusOne.java](LeetCode/src/math/LC66_PlusOne.java)
-- [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)✅
+- [Pow(x, n) (#50)](https://leetcode.com/problems/powx-n/)✅⭐
+  - [LC50_Pow.java](LeetCode/src/math/LC50_Pow.java)
 - [Multiply Strings (#43)](https://leetcode.com/problems/multiply-strings/)
 - [Detect Squares (#2013)](https://leetcode.com/problems/detect-squares/)
 
