@@ -314,7 +314,8 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC45_JumpGameII.java](LeetCode/src/dynamicprogramming/LC45_JumpGameII.java)
 ### Stocks
 - [Best time to buy and sell stocks(#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)✅⭐
-- [Best time to buy and sell stocks II (#122)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)✅
+  - [LC121_BestTimeToBuyAndSellStock.java](LeetCode/src/dynamicprogramming/stock/LC121_BestTimeToBuyAndSellStock.java)
+- [Best time to buy and sell stocks II (#122)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)✅⭐
   - [LC122_BestTimeToBuyAndSellStockII.java](LeetCode/src/dynamicprogramming/stock/LC122_BestTimeToBuyAndSellStockII.java)
 - [Best time to buy and sell stocks III (#123)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)✅
   - [LC123_BestTimeToBuyAndSellStockIII.java](LeetCode/src/dynamicprogramming/stock/LC123_BestTimeToBuyAndSellStockIII.java)
