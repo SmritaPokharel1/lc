@@ -8,18 +8,18 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Arrays & Hashing
 
-- [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) ✅
+- [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) ✅⭐
   - [LC217_ContainsDuplicate.java](LeetCode/src/arrays/LC217_ContainsDuplicate.java)
-- [Valid Anagram (#242)](https://leetcode.com/problems/valid-anagram/) ✅
+- [Valid Anagram (#242)](https://leetcode.com/problems/valid-anagram/) ✅⭐
   - [LC242_ValidAnagram.java](LeetCode/src/arrays/LC242_ValidAnagram.java)
-- [Two Sum (#1)](https://leetcode.com/problems/two-sum/) ✅
+- [Two Sum (#1)](https://leetcode.com/problems/two-sum/) ✅⭐
   - [LC1_TwoSum.java](LeetCode/src/arrays/LC1_TwoSum.java)
-- [Group Anagrams (#49)](https://leetcode.com/problems/group-anagrams/) ✅
+- [Group Anagrams (#49)](https://leetcode.com/problems/group-anagrams/) ✅⭐
   - [LC49_GroupAnagramTogether.java](LeetCode/src/arrays/LC49_GroupAnagramTogether.java)
 - [Encode and Decode Strings (#271)](https://leetcode.com/problems/encode-and-decode-strings/)
-- [Product of Array Except Self (#238)](https://leetcode.com/problems/product-of-array-except-self/) ✅
+- [Product of Array Except Self (#238)](https://leetcode.com/problems/product-of-array-except-self/) ✅⭐
   - [LC238_ProductOfArrayExceptSelf.java](LeetCode/src/arrays/LC238_ProductOfArrayExceptSelf.java)
-- [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/) ✅
+- [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/) ✅⭐
   - [LC128_LongestConsecutiveSequence.java](LeetCode/src/arrays/LC128_LongestConsecutiveSequence.java)
 - [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)✅
   - [LC4_MedianOfTwoSortedArrays.java](LeetCode/src/arrays/LC4_MedianOfTwoSortedArrays.java)
@@ -29,11 +29,12 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Two Pointer
 
-- [Two Sum II - Input Array Is Sorted (#167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✅
+- [Two Sum II - Input Array Is Sorted (#167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✅⭐
   - [LC167_TwoSumOnSortedArray.java](LeetCode/src/arrays/LC167_TwoSumOnSortedArray.java)
-- [3Sum (#15)](https://leetcode.com/problems/3sum/)✅
+- [3Sum (#15)](https://leetcode.com/problems/3sum/)✅⭐
   - [LC15_3Sum.java](LeetCode/src/arrays/LC15_3Sum.java)
-- [Container With Most Water (#11)](https://leetcode.com/problems/container-with-most-water/) ✅
+- [Container With Most Water (#11)](https://leetcode.com/problems/container-with-most-water/) ✅⭐
+  - [LC11_MaxArea.java](LeetCode/src/arrays/LC11_MaxArea.java)
 - [Trapping Rain Water (#42)](https://leetcode.com/problems/trapping-rain-water/)
 
 
@@ -46,17 +47,22 @@ https://leetcode.com/u/smrita_pokharel/
 - [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅⭐
   - [LC125_Palindrome.java](LeetCode/src/string/LC125_Palindrome.java)
 - [Isomorphic Strings (#205)](https://leetcode.com/problems/isomorphic-strings/description/)
-- [Ransom Note (#383)](https://leetcode.com/problems/ransom-note/)
-- [First Unique Character (#87)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
-- [Jewels And Stones (#771)](https://leetcode.com/problems/jewels-and-stones/)
-- [Rotate String (#796)](https://leetcode.com/problems/rotate-string/description/)
-- [Max diff between odd and even frequency (#3442)](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/)
+- [Ransom Note (#383)](https://leetcode.com/problems/ransom-note/)⭐
+  - [LC383_RansomNote.java](LeetCode/src/string/LC383_RansomNote.java)
+- [First Unique Character (#87)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)⭐
+  - [LC387_FirstUniqueCharacter.java](LeetCode/src/string/LC387_FirstUniqueCharacter.java)
+- [Jewels And Stones (#771)](https://leetcode.com/problems/jewels-and-stones/)⭐
+  - [LC771_NoOfJewels.java](LeetCode/src/string/LC771_NoOfJewels.java)
+- [Rotate String (#796)](https://leetcode.com/problems/rotate-string/description/)⭐
+  - [LC796_RotateString.java](LeetCode/src/string/LC796_RotateString.java)
+- [Max diff between odd and even frequency (#3442)](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/)⭐
+  - [LC3422_MaxDiffBetweenEvenOddFreq.java](LeetCode/src/string/LC3422_MaxDiffBetweenEvenOddFreq.java)
 
 ## Matrix
 
-- [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) ✅
+- [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) ✅⭐
   - [LC48_RotateMatrix.java](LeetCode/src/matrix/LC48_RotateMatrix.java)
-- [Valid Sudoku (#36)](https://leetcode.com/problems/valid-sudoku/) ✅
+- [Valid Sudoku (#36)](https://leetcode.com/problems/valid-sudoku/) ✅⭐
   - [LC36_ValidSudoku.java](LeetCode/src/matrix/LC36_ValidSudoku.java)
 - [Spiral Matrix (#54)](https://leetcode.com/problems/spiral-matrix/)ℹ️
   - [LC54_SpiralMatrix.java](LeetCode/src/matrix/LC54_SpiralMatrix.java)
@@ -291,8 +297,10 @@ https://leetcode.com/u/smrita_pokharel/
 - [Palindromic Substrings (#647)](https://leetcode.com/problems/palindromic-substrings/) ✅⭐
   - [LC647_PalindromicSubstring.java](LeetCode/src/dynamicprogramming/strings/LC647_PalindromicSubstring.java)
 - [Decode Ways (#91)](https://leetcode.com/problems/decode-ways/)
-- [Maximum Product Subarray (#152)](https://leetcode.com/problems/maximum-product-subarray/) ℹ️
-- [Word Break (#139)](https://leetcode.com/problems/word-break/) ℹ️
+- [Maximum Product Subarray (#152)](https://leetcode.com/problems/maximum-product-subarray/) ℹ️⭐
+  - [LC152_MaxProductSubArray.java](LeetCode/src/dynamicprogramming/kadanealgo/LC152_MaxProductSubArray.java)
+- [Word Break (#139)](https://leetcode.com/problems/word-break/) ℹ️⭐
+  - [LC139_WordBreak.java](LeetCode/src/dynamicprogramming/strings/LC139_WordBreak.java)
 - [Longest Increasing Subsequence (#300)](https://leetcode.com/problems/longest-increasing-subsequence/) ℹ️
 - [Partition Equal Subset Sum (#416)](https://leetcode.com/problems/partition-equal-subset-sum/) ✅
 - [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)✅
@@ -321,7 +329,7 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC123_BestTimeToBuyAndSellStockIII.java](LeetCode/src/dynamicprogramming/stock/LC123_BestTimeToBuyAndSellStockIII.java)
 - [Best time to buy and sell stocks IV (#188)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)✅⭐
   - [LC188_BestTimeToBuyAndSellStockIV.java](LeetCode/src/dynamicprogramming/stock/LC188_BestTimeToBuyAndSellStockIV.java)
-- [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)✅⭐
+- [Best Time to Buy and Sell Stock with Cooldown (#309)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)✅⭐[Attempt bottom up later]
   - [LC309_BestTimeToBuyStockWithCooldown.java](LeetCode/src/dynamicprogramming/stock/LC309_BestTimeToBuyStockWithCooldown.java)
 
 
