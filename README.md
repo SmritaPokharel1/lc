@@ -197,7 +197,8 @@ https://leetcode.com/u/smrita_pokharel/
 
 - [Implement Trie (Prefix Tree) (#208)](https://leetcode.com/problems/implement-trie-prefix-tree/) ✅⭐
   - [LC208_Trie.java](LeetCode/src/trie/LC208_Trie.java)
-- [Design Add and Search Words Data Structure (#211)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [Design Add and Search Words Data Structure (#211)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)⭐
+  - [LC211_DesignAndAddSearchWordsDataStructure.java](LeetCode/src/trie/LC211_DesignAndAddSearchWordsDataStructure.java)
 - [Word Search II (#212)](https://leetcode.com/problems/word-search-ii/)
 
 ## Heap
