@@ -282,8 +282,10 @@ https://leetcode.com/u/smrita_pokharel/
 - [Pacific Atlantic Water Flow (#417)](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [Surrounded Regions (#130)](https://leetcode.com/problems/surrounded-regions/) ✅⭐
   - [LC130_SurroundedRegions.java](LeetCode/src/backtracking/graph/LC130_SurroundedRegions.java)
-- [Course Schedule (#207)](https://leetcode.com/problems/course-schedule/) ✅
-- [Course Schedule II (#210)](https://leetcode.com/problems/course-schedule-ii/) ✅
+- [Course Schedule (#207)](https://leetcode.com/problems/course-schedule/) ✅⭐
+  - [LC207_CourseSchedule.java](LeetCode/src/backtracking/graph/LC207_CourseSchedule.java)
+- [Course Schedule II (#210)](https://leetcode.com/problems/course-schedule-ii/) ✅⭐
+  - [LC210_CourseScheduleII.java](LeetCode/src/backtracking/graph/LC210_CourseScheduleII.java)
 - [Graph Valid Tree (#261)](https://leetcode.com/problems/graph-valid-tree/)
 - [Number of Connected Components in an Undirected Graph (#323)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [Redundant Connection (#684)](https://leetcode.com/problems/redundant-connection/)
@@ -312,13 +314,18 @@ https://leetcode.com/u/smrita_pokharel/
 - [Partition Equal Subset Sum (#416)](https://leetcode.com/problems/partition-equal-subset-sum/) ✅
 - [Unique Paths (#62)](https://leetcode.com/problems/unique-paths/)✅
 - [Longest Common Subsequence (#1143)](https://leetcode.com/problems/longest-common-subsequence/)✅
-- [Coin Change (#322)](https://leetcode.com/problems/coin-change/description/)✅
-- [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)✅
+- [Coin Change (#322)](https://leetcode.com/problems/coin-change/description/)✅⭐
+  - [LC322_CoinChange.java](LeetCode/src/dynamicprogramming/knapsack/LC322_CoinChange.java)
+- [Coin Change II (#518)](https://leetcode.com/problems/coin-change-ii/)✅⭐
+  - [LC518_CoinChange.java](LeetCode/src/dynamicprogramming/knapsack/LC518_CoinChange.java)
 - [Target Sum (#494)](https://leetcode.com/problems/target-sum/)ℹ️
 - [Interleaving String (#97)](https://leetcode.com/problems/interleaving-string/)
-- [Longest Increasing Path in a Matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)✅
-- [Distinct Subsequences (#115)](https://leetcode.com/problems/distinct-subsequences/)✅
+- [Longest Increasing Path in a Matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)✅⭐
+  - [LC329_LongestIncreasingPathInMatrix.java](LeetCode/src/matrix/LC329_LongestIncreasingPathInMatrix.java)
+- [Distinct Subsequences (#115)](https://leetcode.com/problems/distinct-subsequences/)✅⭐
+  - [LC115_DistinctSubsequence.java](LeetCode/src/dynamicprogramming/strings/LC115_DistinctSubsequence.java)
 - [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)✅
+  - [LC72_EditDistance.java](LeetCode/src/dynamicprogramming/strings/LC72_EditDistance.java)
 - [Burst Balloons (#312)](https://leetcode.com/problems/burst-balloons/)
 - [Regular Expression Matching (#10)](https://leetcode.com/problems/regular-expression-matching/)
 - [Jump Game (#55)](https://leetcode.com/problems/jump-game/)
