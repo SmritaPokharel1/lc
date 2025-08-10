@@ -92,11 +92,11 @@ https://leetcode.com/u/smrita_pokharel/
 
 - [Search a 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/) ✅⭐
   - [LC74_Search2DMatrix.java](LeetCode/src/binarysearch/LC74_Search2DMatrix.java)
-- [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/description/)
+- [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/description/)⭐
   - [LC35_SearchInsertPosition.java](LeetCode/src/binarysearch/LC35_SearchInsertPosition.java)
-- [Find Minimum in Rotated Sorted Array (#153)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ✅
+- [Find Minimum in Rotated Sorted Array (#153)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ✅⭐
   - [LC153_FindMinInRotatedArray.java](LeetCode/src/binarysearch/LC153_FindMinInRotatedArray.java)
-- [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+- [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)⭐
   - [LC34_FirstAndLastPositionOfSortedArray.java](LeetCode/src/binarysearch/LC34_FirstAndLastPositionOfSortedArray.java)
 - [Search in Rotated Sorted Array (#33)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Time Based Key-Value Store (#981)](https://leetcode.com/problems/time-based-key-value-store/)
@@ -195,7 +195,8 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Trie
 
-- [Implement Trie (Prefix Tree) (#208)](https://leetcode.com/problems/implement-trie-prefix-tree/) ✅
+- [Implement Trie (Prefix Tree) (#208)](https://leetcode.com/problems/implement-trie-prefix-tree/) ✅⭐
+  - [LC208_Trie.java](LeetCode/src/trie/LC208_Trie.java)
 - [Design Add and Search Words Data Structure (#211)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [Word Search II (#212)](https://leetcode.com/problems/word-search-ii/)
 
