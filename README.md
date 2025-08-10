@@ -68,30 +68,29 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC54_SpiralMatrix.java](LeetCode/src/matrix/LC54_SpiralMatrix.java)
 - [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)✅
   - [LC73_ZeroMatrix.java](LeetCode/src/matrix/LC73_ZeroMatrix.java)
-- [Search 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/description/)
-  - [LC74_Search2DMatrix.java](LeetCode/src/matrix/LC74_Search2DMatrix.java)
-- [Longest Increasing path in matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+- [Longest Increasing path in matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)⭐
   - [LC329_LongestIncreasingPathInMatrix.java](LeetCode/src/matrix/LC329_LongestIncreasingPathInMatrix.java)
 - [Longest Line of consecutive one (#562)](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/)
   - [LC562_LongestLineOfConsecutiveOne.java](LeetCode/src/matrix/LC562_LongestLineOfConsecutiveOne.java)
 
 ## Stack
 
-- [Valid Parentheses (#20)](https://leetcode.com/problems/valid-parentheses/) ✅
+- [Valid Parentheses (#20)](https://leetcode.com/problems/valid-parentheses/) ✅⭐
   - [LC20_ValidParentheses.java](LeetCode/src/stack/LC20_ValidParentheses.java)
-- [Min Stack (#155)](https://leetcode.com/problems/min-stack/)
+- [Min Stack (#155)](https://leetcode.com/problems/min-stack/)⭐
   - [LC155_MinStack.java](LeetCode/src/stack/LC155_MinStack.java)
-- [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ✅
+- [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ✅⭐
   - [LC150_ReversePolishNotation.java](LeetCode/src/stack/LC150_ReversePolishNotation.java)
-- [Queue using stack (#232)](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [Queue using stack (#232)](https://leetcode.com/problems/implement-queue-using-stacks/)⭐
   - [LC232_QueueUsingStack.java](LeetCode/src/stack/LC232_QueueUsingStack.java)
-- [Daily Temperatures (#739)](https://leetcode.com/problems/daily-temperatures/)
+- [Daily Temperatures (#739)](https://leetcode.com/problems/daily-temperatures/)⭐
+  - [LC739_DailyTemperature.java](LeetCode/src/stack/LC739_DailyTemperature.java)
 - [Car Fleet (#853)](https://leetcode.com/problems/car-fleet/)
 - [Largest Rectangle in Histogram (#84)](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ## Binary Search
 
-- [Search a 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/) ✅
+- [Search a 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/) ✅⭐
   - [LC74_Search2DMatrix.java](LeetCode/src/binarysearch/LC74_Search2DMatrix.java)
 - [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/description/)
   - [LC35_SearchInsertPosition.java](LeetCode/src/binarysearch/LC35_SearchInsertPosition.java)
