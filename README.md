@@ -264,7 +264,8 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC79_WordSearch.java](LeetCode/src/backtracking/LC79_WordSearch.java)
 - [Palindrome Partitioning (#131)](https://leetcode.com/problems/palindrome-partitioning/)
 - [Letter Combinations of a Phone Number (#17)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-- [N Queens (#51)](https://leetcode.com/problems/n-queens/)
+- [N Queens (#51)](https://leetcode.com/problems/n-queens/)⭐
+  - [LC52_NQueens.java](LeetCode/src/backtracking/LC52_NQueens.java)
 - [Generate Parentheses (#22)](https://leetcode.com/problems/generate-parentheses/) ✅⭐
   - [LC22_GenerateParentheses.java](LeetCode/src/backtracking/LC22_GenerateParentheses.java)
 
@@ -324,11 +325,11 @@ https://leetcode.com/u/smrita_pokharel/
   - [LC329_LongestIncreasingPathInMatrix.java](LeetCode/src/matrix/LC329_LongestIncreasingPathInMatrix.java)
 - [Distinct Subsequences (#115)](https://leetcode.com/problems/distinct-subsequences/)✅⭐
   - [LC115_DistinctSubsequence.java](LeetCode/src/dynamicprogramming/strings/LC115_DistinctSubsequence.java)
-- [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)✅
+- [Edit Distance (#72)](https://leetcode.com/problems/edit-distance/)✅⭐
   - [LC72_EditDistance.java](LeetCode/src/dynamicprogramming/strings/LC72_EditDistance.java)
 - [Burst Balloons (#312)](https://leetcode.com/problems/burst-balloons/)
 - [Regular Expression Matching (#10)](https://leetcode.com/problems/regular-expression-matching/)
-- [Jump Game (#55)](https://leetcode.com/problems/jump-game/)
+- [Jump Game (#55)](https://leetcode.com/problems/jump-game/)⭐
   - [LC55_JumpGame.java](LeetCode/src/dynamicprogramming/LC55_JumpGame.java)
 - [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/)
   - [LC53_MaxSumSubArray.java](LeetCode/src/dynamicprogramming/kadanealgo/LC53_MaxSumSubArray.java)✅
