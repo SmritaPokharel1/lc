@@ -222,10 +222,14 @@ https://leetcode.com/u/smrita_pokharel/
 ## Heap - Intervals
 
 - [Insert Interval (#57)](https://leetcode.com/problems/insert-interval/) ✅
-- [Merge Intervals (#56)](https://leetcode.com/problems/merge-intervals/) ✅
+  - [LC57_InsertInterval.java](LeetCode/src/heap/LC57_InsertInterval.java)
+- [Merge Intervals (#56)](https://leetcode.com/problems/merge-intervals/) ✅⭐
+  - [LC56_MergeIntervals.java](LeetCode/src/heap/LC56_MergeIntervals.java)
 - [Non-overlapping Intervals (#435)](https://leetcode.com/problems/non-overlapping-intervals/)
-- [Meeting Rooms (#252)](https://leetcode.com/problems/meeting-rooms/) ✅
+- [Meeting Rooms (#252)](https://leetcode.com/problems/meeting-rooms/) ✅⭐
+  - [LC252_MeetingRooms.java](LeetCode/src/heap/LC252_MeetingRooms.java)
 - [Meeting Rooms II (#253)](https://leetcode.com/problems/meeting-rooms-ii/) ✅
+  - [LC253_MeetingRoomsII.java](LeetCode/src/heap/LC253_MeetingRoomsII.java)
 - [Minimum Interval to Include Each Query (#1851)](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
 ## Greedy
