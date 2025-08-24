@@ -28,7 +28,7 @@ package dynamicprogramming.subsequence;
  *
  * https://leetcode.com/problems/longest-common-subsequence/description/?envType=study-plan-v2&envId=dynamic-programming
  */
-public class LC143_LongestCommonSubsequence {
+public class LC1143_LongestCommonSubsequence {
 
     public int longestCommonSubsequence(String text1, String text2) {
 
