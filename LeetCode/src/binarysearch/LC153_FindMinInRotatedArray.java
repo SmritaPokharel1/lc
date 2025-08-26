@@ -53,4 +53,20 @@ public class LC153_FindMinInRotatedArray {
 
         return binarySearch(nums,left,mid-1);
     }
+
+    public void binarySearchIterative(int[] nums, int left, int right){
+
+        while(left <= right){
+
+            int mid = left + (right - left)/2;
+
+            min = Math.min(nums[mid], min);
+
+            if(nums[right] < nums[mid]){
+                left = mid+1;
+            }else{
+                right = mid - 1;
+            }
+        }
+    }
 }

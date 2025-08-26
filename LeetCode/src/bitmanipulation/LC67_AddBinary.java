@@ -48,4 +48,5 @@ public class LC67_AddBinary {
         return output.reverse().toString();
 
     }
+
 }

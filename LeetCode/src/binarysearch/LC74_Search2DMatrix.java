@@ -18,17 +18,17 @@ public class LC74_Search2DMatrix {
 
         if(matrix.length==1 && matrix[0].length == 1) return matrix[0][0]==target;
 
-        return binarySearch(matrix, target, 0,0, matrix[0].length-1);
+        return binarySearchWithRecursion(matrix, target, 0,0, matrix[0].length-1);
     }
 
-    public boolean binarySearch(int[][] matrix, int target,int row, int left, int right){
+    public boolean binarySearchWithRecursion(int[][] matrix, int target,int row, int left, int right){
 
         int m = matrix.length;
         int n = matrix[0].length;
 
         if(row >= m ) return false;
 
-        if(left > right) return binarySearch(matrix, target, row +1, 0, n-1);
+        if(left > right) return binarySearchWithRecursion(matrix, target, row +1, 0, n-1);
 
         int mid = left + (right - left)/2;
 
@@ -36,9 +36,49 @@ public class LC74_Search2DMatrix {
 
         if(candidate == target) return true;
 
-        if(candidate < target) return binarySearch(matrix, target, row, mid+1, right);
+        if(candidate < target) return binarySearchWithRecursion(matrix, target, row, mid+1, right);
 
-        else return binarySearch(matrix, target, row, left, mid-1);
+        else return binarySearchWithRecursion(matrix, target, row, left, mid-1);
 
+    }
+
+    private boolean binarySearch(int[][] matrix, int target){
+
+        if(matrix.length == 1 && matrix[0].length==1 && matrix[0][0]==target) return true;
+
+        if(matrix.length == 1 && matrix[0].length==1 && matrix[0][0] != target) return false;
+
+        int m = matrix.length;
+        int n = matrix[0].length;
+
+        int left = 0;
+        int right = n-1;
+
+        int curRow = 0;
+
+        while(left <= right && curRow < m){
+
+            int mid = left + (right - left)/2;
+
+            if(matrix[curRow][mid]==target) return true;
+
+            if(matrix[curRow][left]==target || matrix[curRow][right]==target) return true;
+
+            if(matrix[curRow][right] < target){
+
+                curRow++;
+                left = 0;
+                right = n-1;
+
+            }else if(matrix[curRow][mid] < target){
+
+                left = mid+1;
+            }else{
+
+                right = mid -1;
+            }
+        }
+
+        return false;
     }
 }

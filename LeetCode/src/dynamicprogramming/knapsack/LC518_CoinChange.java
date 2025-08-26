@@ -102,4 +102,24 @@ public class LC518_CoinChange {
 
         return dp[n][amount];
     }
+
+    public int coinChange(int[] coins, int amount, int start, Integer[][] memo){
+
+        if(amount < 0) return 0;
+
+        if(amount == 0) return 1;
+
+        if(memo[start][amount] != null) return memo[start][amount];
+
+        int ways = 0;
+
+        for(int i = start; i < coins.length; i++){
+
+            ways += coinChange(coins, amount - coins[i], i, memo);
+        }
+
+        memo[start][amount] = ways;
+
+        return ways;
+    }
 }
