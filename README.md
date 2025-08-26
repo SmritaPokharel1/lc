@@ -8,108 +8,108 @@ https://leetcode.com/u/smrita_pokharel/
 
 ## Arrays & Hashing
 
-- [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) ✅⭐👠
+- [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) 
   - [LC217_ContainsDuplicate.java](LeetCode/src/arrays/LC217_ContainsDuplicate.java)
-- [Valid Anagram (#242)](https://leetcode.com/problems/valid-anagram/) ✅⭐👠
+- [Valid Anagram (#242)](https://leetcode.com/problems/valid-anagram/) 
   - [LC242_ValidAnagram.java](LeetCode/src/arrays/LC242_ValidAnagram.java)
-- [Two Sum (#1)](https://leetcode.com/problems/two-sum/) ✅⭐👠
+- [Two Sum (#1)](https://leetcode.com/problems/two-sum/) 
   - [LC1_TwoSum.java](LeetCode/src/arrays/LC1_TwoSum.java)
-- [Group Anagrams (#49)](https://leetcode.com/problems/group-anagrams/) ✅⭐👠
+- [Group Anagrams (#49)](https://leetcode.com/problems/group-anagrams/)
   - [LC49_GroupAnagramTogether.java](LeetCode/src/arrays/LC49_GroupAnagramTogether.java)
 - [Encode and Decode Strings (#271)](https://leetcode.com/problems/encode-and-decode-strings/)
-- [Product of Array Except Self (#238)](https://leetcode.com/problems/product-of-array-except-self/) ✅⭐👠
+- [Product of Array Except Self (#238)](https://leetcode.com/problems/product-of-array-except-self/) 
   - [LC238_ProductOfArrayExceptSelf.java](LeetCode/src/arrays/LC238_ProductOfArrayExceptSelf.java)
-- [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/) ✅⭐👠
+- [Longest Consecutive Sequence (#128)](https://leetcode.com/problems/longest-consecutive-sequence/) 
   - [LC128_LongestConsecutiveSequence.java](LeetCode/src/arrays/LC128_LongestConsecutiveSequence.java)
-- [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)✅👠
+- [Median of Two Sorted Arrays (#4)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - [LC4_MedianOfTwoSortedArrays.java](LeetCode/src/arrays/LC4_MedianOfTwoSortedArrays.java)
-- [Find the Duplicate Number (#287)](https://leetcode.com/problems/find-the-duplicate-number/) ✅⭐👠
+- [Find the Duplicate Number (#287)](https://leetcode.com/problems/find-the-duplicate-number/)
   - [LC287_FindDuplicateNumber.java](LeetCode/src/arrays/LC287_FindDuplicateNumber.java)
 
 
 ## Two Pointer
 
-- [Two Sum II - Input Array Is Sorted (#167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✅⭐👠
+- [Two Sum II - Input Array Is Sorted (#167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - [LC167_TwoSumOnSortedArray.java](LeetCode/src/arrays/LC167_TwoSumOnSortedArray.java)
-- [3Sum (#15)](https://leetcode.com/problems/3sum/)✅⭐👠
+- [3Sum (#15)](https://leetcode.com/problems/3sum/)
   - [LC15_3Sum.java](LeetCode/src/arrays/LC15_3Sum.java)
-- [Container With Most Water (#11)](https://leetcode.com/problems/container-with-most-water/) ✅⭐👠
+- [Container With Most Water (#11)](https://leetcode.com/problems/container-with-most-water/) 
   - [LC11_MaxArea.java](LeetCode/src/arrays/LC11_MaxArea.java)
 - [Trapping Rain Water (#42)](https://leetcode.com/problems/trapping-rain-water/)
 
 
 ## Strings
 
-- [Longest Common Prefix (#14)](https://leetcode.com/problems/longest-common-prefix/description/)⭐👠
+- [Longest Common Prefix (#14)](https://leetcode.com/problems/longest-common-prefix/description/)
   - [LC14_LongestCommonPrefix.java](LeetCode/src/string/LC14_LongestCommonPrefix.java)
-- [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) ✅⭐👠
+- [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome/) 
   - [LC125_Palindrome.java](LeetCode/src/string/LC125_Palindrome.java)
-- [Isomorphic Strings (#205)](https://leetcode.com/problems/isomorphic-strings/description/)👠
+- [Isomorphic Strings (#205)](https://leetcode.com/problems/isomorphic-strings/description/)
   - [LC205_IsomorphicStrings.java](LeetCode/src/string/LC205_IsomorphicStrings.java)
-- [Ransom Note (#383)](https://leetcode.com/problems/ransom-note/)⭐👠
+- [Ransom Note (#383)](https://leetcode.com/problems/ransom-note/)
   - [LC383_RansomNote.java](LeetCode/src/string/LC383_RansomNote.java)
-- [First Unique Character (#87)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)⭐👠
+- [First Unique Character (#87)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
   - [LC387_FirstUniqueCharacter.java](LeetCode/src/string/LC387_FirstUniqueCharacter.java)
-- [Jewels And Stones (#771)](https://leetcode.com/problems/jewels-and-stones/)⭐👠
+- [Jewels And Stones (#771)](https://leetcode.com/problems/jewels-and-stones/)
   - [LC771_NoOfJewels.java](LeetCode/src/string/LC771_NoOfJewels.java)
-- [Rotate String (#796)](https://leetcode.com/problems/rotate-string/description/)⭐👠
+- [Rotate String (#796)](https://leetcode.com/problems/rotate-string/description/)
   - [LC796_RotateString.java](LeetCode/src/string/LC796_RotateString.java)
-- [Max diff between odd and even frequency (#3442)](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/)⭐👠
+- [Max diff between odd and even frequency (#3442)](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/)
   - [LC3422_MaxDiffBetweenEvenOddFreq.java](LeetCode/src/string/LC3422_MaxDiffBetweenEvenOddFreq.java)
 
 ## Matrix
 
-- [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) ✅⭐👠
+- [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/)
   - [LC48_RotateMatrix.java](LeetCode/src/matrix/LC48_RotateMatrix.java)
-- [Valid Sudoku (#36)](https://leetcode.com/problems/valid-sudoku/) ✅⭐👠
+- [Valid Sudoku (#36)](https://leetcode.com/problems/valid-sudoku/)
   - [LC36_ValidSudoku.java](LeetCode/src/matrix/LC36_ValidSudoku.java)
-- [Spiral Matrix (#54)](https://leetcode.com/problems/spiral-matrix/)ℹ️👠
+- [Spiral Matrix (#54)](https://leetcode.com/problems/spiral-matrix/)
   - [LC54_SpiralMatrix.java](LeetCode/src/matrix/LC54_SpiralMatrix.java)
-- [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)✅👠
+- [Set Matrix Zeroes (#73)](https://leetcode.com/problems/set-matrix-zeroes/)
   - [LC73_ZeroMatrix.java](LeetCode/src/matrix/LC73_ZeroMatrix.java)
-- [Longest Increasing path in matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)⭐👠
+- [Longest Increasing path in matrix (#329)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
   - [LC329_LongestIncreasingPathInMatrix.java](LeetCode/src/matrix/LC329_LongestIncreasingPathInMatrix.java)
 - [Longest Line of consecutive one (#562)](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/)
   - [LC562_LongestLineOfConsecutiveOne.java](LeetCode/src/matrix/LC562_LongestLineOfConsecutiveOne.java)
 
 ## Stack
 
-- [Valid Parentheses (#20)](https://leetcode.com/problems/valid-parentheses/) ✅⭐👠
+- [Valid Parentheses (#20)](https://leetcode.com/problems/valid-parentheses/)
   - [LC20_ValidParentheses.java](LeetCode/src/stack/LC20_ValidParentheses.java)
-- [Min Stack (#155)](https://leetcode.com/problems/min-stack/)⭐👠
+- [Min Stack (#155)](https://leetcode.com/problems/min-stack/)
   - [LC155_MinStack.java](LeetCode/src/stack/LC155_MinStack.java)
-- [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ✅⭐👠
+- [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
   - [LC150_ReversePolishNotation.java](LeetCode/src/stack/LC150_ReversePolishNotation.java)
-- [Queue using stack (#232)](https://leetcode.com/problems/implement-queue-using-stacks/)⭐👠
+- [Queue using stack (#232)](https://leetcode.com/problems/implement-queue-using-stacks/)
   - [LC232_QueueUsingStack.java](LeetCode/src/stack/LC232_QueueUsingStack.java)
-- [Daily Temperatures (#739)](https://leetcode.com/problems/daily-temperatures/)⭐👠
+- [Daily Temperatures (#739)](https://leetcode.com/problems/daily-temperatures/)
   - [LC739_DailyTemperature.java](LeetCode/src/stack/LC739_DailyTemperature.java)
 - [Car Fleet (#853)](https://leetcode.com/problems/car-fleet/)
 - [Largest Rectangle in Histogram (#84)](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ## Binary Search
 
-- [Search a 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/) ✅⭐👠
+- [Search a 2D Matrix (#74)](https://leetcode.com/problems/search-a-2d-matrix/) 
   - [LC74_Search2DMatrix.java](LeetCode/src/binarysearch/LC74_Search2DMatrix.java)
-- [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/description/)⭐👠
+- [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/description/)
   - [LC35_SearchInsertPosition.java](LeetCode/src/binarysearch/LC35_SearchInsertPosition.java)
-- [Find Minimum in Rotated Sorted Array (#153)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ✅⭐👠
+- [Find Minimum in Rotated Sorted Array (#153)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - [LC153_FindMinInRotatedArray.java](LeetCode/src/binarysearch/LC153_FindMinInRotatedArray.java)
-- [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)⭐👠
+- [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
   - [LC34_FirstAndLastPositionOfSortedArray.java](LeetCode/src/binarysearch/LC34_FirstAndLastPositionOfSortedArray.java)
-- [Search in Rotated Sorted Array (#33)](https://leetcode.com/problems/search-in-rotated-sorted-array/)👠
+- [Search in Rotated Sorted Array (#33)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [LC33_SearchInRotatedSortedArray.java](LeetCode/src/binarysearch/LC33_SearchInRotatedSortedArray.java)
 - [Time Based Key-Value Store (#981)](https://leetcode.com/problems/time-based-key-value-store/)
 - [Koko Eating Bananas (#875)](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Sliding Window
 
-- [Longest Substring Without Repeating Characters (#3)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ✅
+- [Longest Substring Without Repeating Characters (#3)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
 - [Longest Repeating Character Replacement (#424)](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [Permutation in String (#567)](https://leetcode.com/problems/permutation-in-string/)😶‍🌫️
+- [Permutation in String (#567)](https://leetcode.com/problems/permutation-in-string/)
   - [LC567_PermutationInString.java](LeetCode/src/string/LC567_PermutationInString.java)
-- [Minimum Window Substring (#76)](https://leetcode.com/problems/minimum-window-substring/)😶‍🌫️
-- [Sliding Window Maximum (#239)](https://leetcode.com/problems/sliding-window-maximum/) ✅
+- [Minimum Window Substring (#76)](https://leetcode.com/problems/minimum-window-substring/)
+- [Sliding Window Maximum (#239)](https://leetcode.com/problems/sliding-window-maximum/)
 
 
 ## Linked List
